@@ -1,5 +1,5 @@
 {
-"generado": "2026-11-09T21:05:20.815261+00:00",
+"generado": "2026-11-09T21:08:09.992190+00:00",
 "fecha": "2026-11-09",
 "modelos": [
 {
@@ -771,7 +771,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": "Madrid - Arganda",
-"puntuacion": 4.02,
+"puntuacion": 4.05,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -826,7 +826,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": "Madrid - Arganda",
-"puntuacion": 4.02,
+"puntuacion": 4.05,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -881,7 +881,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 4.0,
+"puntuacion": 4.04,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2021+)",
@@ -991,7 +991,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.93,
+"puntuacion": 3.96,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2021+)",
@@ -1000,7 +1000,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 3.9/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 256.4,
@@ -1157,7 +1157,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.81,
+"puntuacion": 3.85,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2021+)",
@@ -1166,7 +1166,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 3.9/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 280.77,
@@ -1212,7 +1212,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.75,
+"puntuacion": 3.79,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
@@ -1220,10 +1220,8 @@
 "garantía de 12 meses",
 "vendedor profesional"
 ],
-"contras": [
-"precio un 21% por encima de la mediana del mercado (16.990 €)"
-],
-"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional. En contra: Precio un 21% por encima de la mediana del mercado (16.990 €).",
+"contras": [],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 292.88,
@@ -1250,6 +1248,230 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.250798+00:00"
+},
+{
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-29745km-2024-wzcj9qaj",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition (110 CV)",
+"anio": 2024,
+"km": 29745,
+"precio": 16790.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/mMjaPuc11mbF-XX-uT4s9KE8Uc47BJNDCmPJTOwAlvE/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvMjQvMzYvNzUvNi94MDEuanBnPzE1MzEyNTA3NzQ0",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Torrejón de Ardoz 194",
+"puntuacion": 3.77,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 240.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 238.8,
+"entrada": 3358.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.98,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16790.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:29:41.760869+00:00"
+},
+{
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-29739km-2024-wzcj2qaj",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition (110 CV)",
+"anio": 2024,
+"km": 29739,
+"precio": 16790.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/0hfTD3hxan9ChtLj0LexmrNiT_vRIEt-3t1uQb2bxiU/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvMjQvMzYvNzUvOS94MDEuanBnPzE1MzEyNDk0ODQ0",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Torrejón de Ardoz 194",
+"puntuacion": 3.77,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 240.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 238.8,
+"entrada": 3358.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.98,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16790.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:29:41.764468+00:00"
+},
+{
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-81kw-110cv-ambition-con-29537km-2024-wzcixqaj",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition (110 CV)",
+"anio": 2024,
+"km": 29537,
+"precio": 16790.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/HUoTdilNX7TMZQXSjfp_RCBX0Ze5ndWea8E298nVcIY/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvOTYvNjMvNTUvMy94MDEuanBnPzE1MzA2NzY1NjI0",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
+"puntuacion": 3.77,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 240.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 238.8,
+"entrada": 3358.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.98,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16790.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:29:41.788879+00:00"
+},
+{
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-81kw-110cv-ambition-con-29692km-2024-wzcj4qaj",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition (110 CV)",
+"anio": 2024,
+"km": 29692,
+"precio": 16790.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/ZvcbUWbXmFBCpiiiLVetosW07NpJ2ezkfR1QSQoq0gs/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvOTYvNjMvNTUvOS94MDEuanBnPzE1MzA2NzQ0MDY5",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
+"puntuacion": 3.77,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 240.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 238.8,
+"entrada": 3358.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.98,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16790.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:29:41.792053+00:00"
 },
 {
 "url": "https://www.ocasionplus.com/coches-segunda-mano/suzuki-vitara-14-t-mild-hybrid-glx-con-41722km-2023-avysnqac",
@@ -1306,230 +1528,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-09T08:28:36.279241+00:00"
-},
-{
-"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-29745km-2024-wzcj9qaj",
-"web_id": "ocasionplus",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition (110 CV)",
-"anio": 2024,
-"km": 29745,
-"precio": 16790.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://img.ocasionplus.com/mMjaPuc11mbF-XX-uT4s9KE8Uc47BJNDCmPJTOwAlvE/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvMjQvMzYvNzUvNi94MDEuanBnPzE1MzEyNTA3NzQ0",
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": "Madrid - Torrejón de Ardoz 194",
-"puntuacion": 3.74,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 240.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 238.8,
-"entrada": 3358.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.98,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": true,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T08:29:41.760869+00:00"
-},
-{
-"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-29739km-2024-wzcj2qaj",
-"web_id": "ocasionplus",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition (110 CV)",
-"anio": 2024,
-"km": 29739,
-"precio": 16790.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://img.ocasionplus.com/0hfTD3hxan9ChtLj0LexmrNiT_vRIEt-3t1uQb2bxiU/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvMjQvMzYvNzUvOS94MDEuanBnPzE1MzEyNDk0ODQ0",
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": "Madrid - Torrejón de Ardoz 194",
-"puntuacion": 3.74,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 240.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 238.8,
-"entrada": 3358.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.98,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": true,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T08:29:41.764468+00:00"
-},
-{
-"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-81kw-110cv-ambition-con-29537km-2024-wzcixqaj",
-"web_id": "ocasionplus",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition (110 CV)",
-"anio": 2024,
-"km": 29537,
-"precio": 16790.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://img.ocasionplus.com/HUoTdilNX7TMZQXSjfp_RCBX0Ze5ndWea8E298nVcIY/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvOTYvNjMvNTUvMy94MDEuanBnPzE1MzA2NzY1NjI0",
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
-"puntuacion": 3.74,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 240.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 238.8,
-"entrada": 3358.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.98,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": true,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T08:29:41.788879+00:00"
-},
-{
-"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-81kw-110cv-ambition-con-29692km-2024-wzcj4qaj",
-"web_id": "ocasionplus",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition (110 CV)",
-"anio": 2024,
-"km": 29692,
-"precio": 16790.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://img.ocasionplus.com/ZvcbUWbXmFBCpiiiLVetosW07NpJ2ezkfR1QSQoq0gs/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvOTYvNjMvNTUvOS94MDEuanBnPzE1MzA2NzQ0MDY5",
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
-"puntuacion": 3.74,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 240.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 238.8,
-"entrada": 3358.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.98,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": true,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T08:29:41.792053+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-suzuki-vitara-vitara-1-4t-mild-hybrid-s1-110-suv-y-4x4-manual-2025-147219",
@@ -1660,7 +1658,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.65,
+"puntuacion": 3.68,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
@@ -1670,7 +1668,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.6/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 253.0,
@@ -1697,6 +1695,118 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.346012+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-70kw-95-suv-y-4x4-manual-2023-146167",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition",
+"anio": 2023,
+"km": 19345,
+"precio": 18990.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.62,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2023, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.6/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 266.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 270.09,
+"entrada": 3798.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 47.47,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 18990.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (18,990 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:07:38.180476+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-70kw-95-suv-y-4x4-manual-2025-145342",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Selection",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Selection",
+"anio": 2026,
+"km": 3765,
+"precio": 19990.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.55,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2026, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2026, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 280.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 284.31,
+"entrada": 3998.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 49.97,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 19990.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (19,990 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.368537+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-suzuki-vitara-vitara-1-4t-glx-4wd-mild-hybrid-129-suv-y-4x4-manual-2022-143879",
@@ -1755,60 +1865,60 @@
 "primer_visto": "2026-11-07T11:48:33.627538+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-70kw-95-suv-y-4x4-manual-2025-145342",
-"web_id": "clicars",
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3535898",
+"web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Selection",
+"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
 "marca": "Skoda",
 "modelo": "Kamiq",
-"version": "1.0 TSI Selection",
-"anio": 2026,
-"km": 3765,
-"precio": 19990.0,
+"version": "1.5 tsi 150 cv dsg style",
+"anio": 2023,
+"km": 50153,
+"precio": 21600.0,
 "combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": null,
-"foto_url": null,
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3535898/20030bd7-f899-0d8d-b531-5fbc95d2b56a/40543ad341c7ad9b85737cf1254c2d0f.jpg",
 "vendedor_tipo": "profesional",
-"garantia_meses": null,
+"garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.51,
+"puntuacion": 3.52,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2026, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
+"año 2023, dentro del rango preferente (2021+)",
+"garantía de 12 meses",
 "vendedor profesional"
 ],
 "contras": [
-"sin garantía especificada en el anuncio"
+"precio un 23% por encima de la mediana del mercado (17.490 €)"
 ],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2026, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 23% por encima de la mediana del mercado (17.490 €).",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 280.0,
+"cuota_mensual": 307.85,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 284.31,
-"entrada": 3998.0,
+"cuota_mensual": 307.21,
+"entrada": 4320.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 49.97,
+"cuota_mensual": 54.0,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 21600.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (21,600 €) pendiente al final de los 72 meses"
 }
 },
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.368537+00:00"
+"primer_visto": "2026-11-07T11:49:38.259752+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=Sq1gOQ_gpnHp",
@@ -1865,60 +1975,58 @@
 "primer_visto": "2026-11-07T11:48:33.558636+00:00"
 },
 {
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3535898",
-"web_id": "ftomeocasion",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=eiiY-8z90ZEF",
+"web_id": "coches_com",
 "modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
+"titulo": "SKODA Kamiq 1.0 TSI Ambition 81kW 110 en Madrid",
 "marca": "Skoda",
 "modelo": "Kamiq",
-"version": "1.5 tsi 150 cv dsg style",
-"anio": 2023,
-"km": 50153,
-"precio": 21600.0,
+"version": "",
+"anio": 2022,
+"km": 42449,
+"precio": 16250.0,
 "combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3535898/20030bd7-f899-0d8d-b531-5fbc95d2b56a/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/6e89d14a-1d77-4911-ade8-d0f986b8124d/4ac036ea-5065-46ef-8b03-842bbf3a68b1.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
 "puntuacion": 3.48,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2023, dentro del rango preferente (2021+)",
-"garantía de 12 meses",
-"vendedor profesional"
+"año 2022, dentro del rango preferente (2021+)"
 ],
 "contras": [
-"precio un 27% por encima de la mediana del mercado (16.990 €)"
+"sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 27% por encima de la mediana del mercado (16.990 €).",
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 307.85,
+"cuota_mensual": 14773.0,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 307.21,
-"entrada": 4320.0,
+"cuota_mensual": 231.12,
+"entrada": 3250.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.0,
+"cuota_mensual": 40.62,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21600.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,600 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 16250.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,250 €) pendiente al final de los 72 meses"
 }
 },
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.259752+00:00"
+"primer_visto": "2026-11-07T11:49:38.285404+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=QXkJXJfsoAqw",
@@ -2029,60 +2137,6 @@
 "primer_visto": "2026-11-07T11:48:33.553683+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=eiiY-8z90ZEF",
-"web_id": "coches_com",
-"modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.0 TSI Ambition 81kW 110 en Madrid",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 42449,
-"precio": 16250.0,
-"combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/6e89d14a-1d77-4911-ade8-d0f986b8124d/4ac036ea-5065-46ef-8b03-842bbf3a68b1.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.45,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2022, dentro del rango preferente (2021+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 14773.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 231.12,
-"entrada": 3250.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 40.62,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16250.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,250 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.285404+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=9rPeW_InRG9L",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -2135,6 +2189,62 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-09T20:38:33.083798+00:00"
+},
+{
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3643101",
+"web_id": "ftomeocasion",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq sport 1.5 tsi 150 cv dsg",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "sport 1.5 tsi 150 cv dsg",
+"anio": 2024,
+"km": 34011,
+"precio": 22750.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3643101/5b9680bd-819e-5eca-45db-11ca305b97e7/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.44,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2021+)",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [
+"precio un 30% por encima de la mediana del mercado (17.490 €)"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 30% por encima de la mediana del mercado (17.490 €).",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 324.24,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 323.57,
+"entrada": 4550.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 56.88,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 22750.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (22,750 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.272716+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=3iWMZFPhzW1f",
@@ -2191,6 +2301,61 @@
 "primer_visto": "2026-11-07T11:48:33.539963+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-emotion-81kw.htm?id=OvOlaYg9FK7D",
+"web_id": "coches_com",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.0 TSI Emotion 81kW 110 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "",
+"anio": 2022,
+"km": 70951,
+"precio": 14980.0,
+"combustible": "gasolina",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/00186a6c-84de-424f-9441-c025e96d10d6/e2ffc50c-ccb6-4723-98c1-33d92b83b29e.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.42,
+"pros": [
+"precio un 14% por debajo de la mediana del mercado (17.490 €)",
+"kilometraje dentro del rango recomendado",
+"año 2022, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Precio un 14% por debajo de la mediana del mercado (17.490 €); Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 13316.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 213.06,
+"entrada": 2996.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 37.45,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 14980.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (14,980 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.277058+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=Ibqb2F5jtQNi",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -2243,117 +2408,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:48:33.544653+00:00"
-},
-{
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3643101",
-"web_id": "ftomeocasion",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq sport 1.5 tsi 150 cv dsg",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "sport 1.5 tsi 150 cv dsg",
-"anio": 2024,
-"km": 34011,
-"precio": 22750.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3643101/5b9680bd-819e-5eca-45db-11ca305b97e7/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.39,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [
-"precio un 34% por encima de la mediana del mercado (16.990 €)"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 34% por encima de la mediana del mercado (16.990 €).",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 324.24,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 323.57,
-"entrada": 4550.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 56.88,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 22750.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,750 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.272716+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-emotion-81kw.htm?id=OvOlaYg9FK7D",
-"web_id": "coches_com",
-"modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.0 TSI Emotion 81kW 110 en Madrid",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 70951,
-"precio": 14980.0,
-"combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/00186a6c-84de-424f-9441-c025e96d10d6/e2ffc50c-ccb6-4723-98c1-33d92b83b29e.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.39,
-"pros": [
-"precio un 12% por debajo de la mediana del mercado (16.990 €)",
-"kilometraje dentro del rango recomendado",
-"año 2022, dentro del rango preferente (2021+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Precio un 12% por debajo de la mediana del mercado (16.990 €); Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 13316.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 213.06,
-"entrada": 2996.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 37.45,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 14980.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (14,980 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.277058+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=YoJph7-TxXWl",
@@ -2624,6 +2678,60 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:48:33.605412+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-style-81kw-dsg.htm?id=3_pSTxW9a-uR",
+"web_id": "coches_com",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.0 TSI Style 81kW DSG 110 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "",
+"anio": 2022,
+"km": 54161,
+"precio": 17990.0,
+"combustible": "gasolina",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/f1a4aeea-89f1-4ba8-a362-20eaca21fe74/30850986-f110-4042-bfea-58120239f537.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.36,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2022, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 16355.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 255.87,
+"entrada": 3598.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 44.97,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 17990.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (17,990 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:07:38.178373+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=mUVowxwJW1gY",
@@ -2951,6 +3059,284 @@
 "primer_visto": "2026-11-09T21:00:55.768724+00:00"
 },
 {
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-70kw-95-suv-y-4x4-manual-2021-143435",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition",
+"anio": 2022,
+"km": 108758,
+"precio": 14490.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.32,
+"pros": [
+"precio un 17% por debajo de la mediana del mercado (17.490 €)",
+"año 2022, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"kilometraje dentro del rango recomendado",
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 17% por debajo de la mediana del mercado (17.490 €); Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 205.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 206.09,
+"entrada": 2898.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 36.23,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 14490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (14,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.377293+00:00"
+},
+{
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3537897",
+"web_id": "ftomeocasion",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.5 tsi 150 cv sport",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.5 tsi 150 cv sport",
+"anio": 2022,
+"km": 110956,
+"precio": 18850.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3537897/eccb883a-9f30-07cd-6d9b-ca20d34a80ee/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.31,
+"pros": [
+"año 2022, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [
+"kilometraje dentro del rango recomendado"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 268.65,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 268.1,
+"entrada": 3770.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 47.12,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 18850.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (18,850 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.246218+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition",
+"anio": 2023,
+"km": 95644,
+"precio": 16490.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.31,
+"pros": [
+"año 2023, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 232.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 234.53,
+"entrada": 3298.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.23,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.359532+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-144969",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Selection DSG7",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Selection DSG7",
+"anio": 2024,
+"km": 75982,
+"precio": 17490.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.31,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2024, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 246.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 248.76,
+"entrada": 3498.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 43.72,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 17490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (17,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.372923+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-144113",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition DSG",
+"anio": 2021,
+"km": 85725,
+"precio": 15490.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.31,
+"pros": [
+"precio un 11% por debajo de la mediana del mercado (17.490 €)",
+"año 2021, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 11% por debajo de la mediana del mercado (17.490 €); Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 232.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 220.31,
+"entrada": 3098.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 38.73,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 15490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (15,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.383027+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2-4wd.htm?id=whonSp5nFgdK",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -3003,63 +3389,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:48:33.609855+00:00"
-},
-{
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-70kw-95-suv-y-4x4-manual-2021-143435",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition",
-"anio": 2022,
-"km": 108758,
-"precio": 14490.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.3,
-"pros": [
-"precio un 15% por debajo de la mediana del mercado (16.990 €)",
-"año 2022, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"kilometraje dentro del rango recomendado",
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 15% por debajo de la mediana del mercado (16.990 €); Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 205.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 206.09,
-"entrada": 2898.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 36.23,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 14490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (14,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.377293+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=EEP6KF_xPS_A",
@@ -3116,226 +3445,6 @@
 "primer_visto": "2026-11-07T11:48:33.505132+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition",
-"anio": 2023,
-"km": 95644,
-"precio": 16490.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.28,
-"pros": [
-"año 2023, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 232.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 234.53,
-"entrada": 3298.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.23,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.359532+00:00"
-},
-{
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-144113",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition DSG",
-"anio": 2021,
-"km": 85725,
-"precio": 15490.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.28,
-"pros": [
-"año 2021, dentro del rango preferente (2021+)",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 232.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 220.31,
-"entrada": 3098.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 38.73,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 15490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (15,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.383027+00:00"
-},
-{
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3537897",
-"web_id": "ftomeocasion",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.5 tsi 150 cv sport",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.5 tsi 150 cv sport",
-"anio": 2022,
-"km": 110956,
-"precio": 18850.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3537897/eccb883a-9f30-07cd-6d9b-ca20d34a80ee/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.27,
-"pros": [
-"año 2022, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [
-"kilometraje dentro del rango recomendado"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 268.65,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 268.1,
-"entrada": 3770.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 47.12,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 18850.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,850 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.246218+00:00"
-},
-{
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-144969",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Selection DSG7",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Selection DSG7",
-"anio": 2024,
-"km": 75982,
-"precio": 17490.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.27,
-"pros": [
-"kilometraje dentro del rango recomendado",
-"año 2024, dentro del rango preferente (2021+)",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 246.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 248.76,
-"entrada": 3498.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 43.72,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 17490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.372923+00:00"
-},
-{
 "url": "https://www.autofesa.com/coches-de-ocasion/skoda/kodiaq/1-5-tsi-150cv-auto-7-plazas-5p-techo-panoramico-ele-navi-parktornic-camara-trasera",
 "web_id": "autofesa",
 "modelo_id": "skoda_kodiaq",
@@ -3389,6 +3498,59 @@
 "primer_visto": "2026-11-09T21:00:55.756658+00:00"
 },
 {
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3446747",
+"web_id": "ftomeocasion",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.5 tsi 150 cv dsg style",
+"anio": 2022,
+"km": 93550,
+"precio": 18990.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3446747/e395785a-30a1-10c1-8943-36cdf960b36c/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.25,
+"pros": [
+"año 2022, dentro del rango preferente (2021+)",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 3.2/5. A favor: Año 2022, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 270.65,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 270.09,
+"entrada": 3798.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 47.47,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 18990.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (18,990 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.263822+00:00"
+},
+{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-143565",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -3406,7 +3568,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.22,
+"puntuacion": 3.25,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2024, dentro del rango preferente (2021+)",
@@ -3444,59 +3606,6 @@
 "primer_visto": "2026-11-07T11:49:38.388574+00:00"
 },
 {
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3446747",
-"web_id": "ftomeocasion",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.5 tsi 150 cv dsg style",
-"anio": 2022,
-"km": 93550,
-"precio": 18990.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3446747/e395785a-30a1-10c1-8943-36cdf960b36c/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.21,
-"pros": [
-"año 2022, dentro del rango preferente (2021+)",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [],
-"explicacion": "Puntuación 3.2/5. A favor: Año 2022, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 270.65,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 270.09,
-"entrada": 3798.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 47.47,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 18990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,990 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.263822+00:00"
-},
-{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-5-tsi-style-dsg-150-suv-y-4x4-automatico-2023-146754",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -3514,17 +3623,17 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.17,
+"puntuacion": 3.21,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
 "vendedor profesional"
 ],
 "contras": [
-"precio un 29% por encima de la mediana del mercado (16.990 €)",
+"precio un 26% por encima de la mediana del mercado (17.490 €)",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Precio un 29% por encima de la mediana del mercado (16.990 €); Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Precio un 26% por encima de la mediana del mercado (17.490 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 307.0,
@@ -3553,60 +3662,6 @@
 "primer_visto": "2026-11-07T11:49:38.364039+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-145348",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition DSG",
-"anio": 2021,
-"km": 90057,
-"precio": 16490.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.16,
-"pros": [
-"año 2021, dentro del rango preferente (2021+)",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.2/5. A favor: Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 246.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 234.53,
-"entrada": 3298.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 41.23,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 16490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.350623+00:00"
-},
-{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2022-144784",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -3624,7 +3679,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.16,
+"puntuacion": 3.2,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2023, dentro del rango preferente (2021+)",
@@ -3662,6 +3717,60 @@
 "primer_visto": "2026-11-07T11:49:38.355035+00:00"
 },
 {
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-145348",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition DSG",
+"anio": 2021,
+"km": 90057,
+"precio": 16490.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.19,
+"pros": [
+"año 2021, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.2/5. A favor: Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 246.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 234.53,
+"entrada": 3298.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 41.23,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 16490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.350623+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-150-15-tsi-style.htm?id=BDwY-5LcvsAB",
 "web_id": "coches_com",
 "modelo_id": "skoda_kamiq",
@@ -3679,16 +3788,16 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.12,
+"puntuacion": 3.16,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)"
 ],
 "contras": [
-"precio un 24% por encima de la mediana del mercado (16.990 €)",
+"precio un 20% por encima de la mediana del mercado (17.490 €)",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.1/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+). En contra: Precio un 24% por encima de la mediana del mercado (16.990 €); Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+). En contra: Precio un 20% por encima de la mediana del mercado (17.490 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 19082.0,
@@ -3773,6 +3882,60 @@
 "primer_visto": "2026-11-09T21:01:09.594543+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-150-15-tsi-style-dsg.htm?id=U8YMwJwpeDEq",
+"web_id": "coches_com",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.5 TSI Style DSG 150 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "",
+"anio": 2022,
+"km": 79912,
+"precio": 18490.0,
+"combustible": "gasolina",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/eb6bf3ed-e6c6-4fe8-90da-d863ea3c3a77/04dd5cef-2454-4866-b25f-8d7daf68b0f6.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.07,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2022, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.1/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 262.98,
+"entrada": 3698.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 46.22,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 18490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (18,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.327627+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s1.htm?id=C6I77qR4QjkH",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -3828,60 +3991,6 @@
 "primer_visto": "2026-11-07T11:48:33.522429+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-150-15-tsi-style-dsg.htm?id=U8YMwJwpeDEq",
-"web_id": "coches_com",
-"modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.5 TSI Style DSG 150 en Madrid",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 79912,
-"precio": 18490.0,
-"combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/eb6bf3ed-e6c6-4fe8-90da-d863ea3c3a77/04dd5cef-2454-4866-b25f-8d7daf68b0f6.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.03,
-"pros": [
-"kilometraje dentro del rango recomendado",
-"año 2022, dentro del rango preferente (2021+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.0/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 262.98,
-"entrada": 3698.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 46.22,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 18490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,490 €) pendiente al final de los 72 meses"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.327627+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=8bY7bLp4wx49",
 "web_id": "coches_com",
 "modelo_id": "skoda_kamiq",
@@ -3899,7 +4008,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 2.88,
+"puntuacion": 2.91,
 "pros": [
 "año 2022, dentro del rango preferente (2021+)"
 ],
