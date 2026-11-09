@@ -5,12 +5,22 @@ from sites.base import Listing
 
 COMBUSTIBLES_EXCLUIDOS = {"diesel", "electrico"}  # el usuario pidio gasolina o hibrido no enchufable
 
+# Webs donde la ubicacion del anuncio no se filtra por texto: ftomeocasion/canalcar/autofesa
+# son concesionarios fisicos en Madrid (todo su stock esta ahi), y clicars es un vendedor
+# online que entrega a domicilio en toda España (no muestra ubicacion fisica por anuncio).
+WEBS_SIEMPRE_DENTRO_DE_UBICACION = {"ftomeocasion", "canalcar", "autofesa", "clicars"}
+
 
 def pasa_filtros(listing: Listing, parametros_modelo: dict, parametros_generales: dict) -> tuple[bool, str]:
     if listing.precio is None:
         return False, "sin precio"
     if not (parametros_generales["precio_min"] <= listing.precio <= parametros_generales["precio_max"]):
         return False, f"precio fuera de rango ({listing.precio})"
+
+    ubicacion_objetivo = (parametros_generales.get("ubicacion") or "").strip().lower()
+    if ubicacion_objetivo and listing.web_id not in WEBS_SIEMPRE_DENTRO_DE_UBICACION:
+        if not listing.ubicacion or ubicacion_objetivo not in listing.ubicacion.lower():
+            return False, f"fuera de {parametros_generales.get('ubicacion')} (ubicacion anuncio: {listing.ubicacion})"
 
     if listing.combustible in COMBUSTIBLES_EXCLUIDOS:
         return False, f"combustible excluido ({listing.combustible})"
