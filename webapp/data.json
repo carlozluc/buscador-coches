@@ -1,5 +1,5 @@
 {
-"generado": "2026-11-09T21:25:21.968359+00:00",
+"generado": "2026-11-09T21:26:37.388953+00:00",
 "fecha": "2026-11-09",
 "modelos": [
 {
@@ -639,12 +639,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 43.38,
+"cuota_mensual": 263.61,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17350.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,350 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -694,12 +694,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -749,12 +749,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -804,12 +804,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 42.38,
+"cuota_mensual": 257.53,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16950.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,950 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -859,12 +859,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 44.97,
+"cuota_mensual": 273.33,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -914,12 +914,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 57.38,
+"cuota_mensual": 348.69,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22950.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,950 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -970,12 +970,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 47.38,
+"cuota_mensual": 287.92,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18950.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,950 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1025,12 +1025,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 49.25,
+"cuota_mensual": 299.32,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19700.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,700 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1080,12 +1080,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 51.38,
+"cuota_mensual": 312.23,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20550.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,550 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1136,12 +1136,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1192,12 +1192,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1248,12 +1248,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1304,12 +1304,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.98,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16790.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,790 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1360,12 +1360,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 51.88,
+"cuota_mensual": 315.27,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20750.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,750 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1416,12 +1416,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 53.22,
+"cuota_mensual": 323.47,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21290.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,290 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1471,12 +1471,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.88,
+"cuota_mensual": 333.5,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21950.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,950 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1527,12 +1527,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 44.97,
+"cuota_mensual": 273.33,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1583,12 +1583,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 47.47,
+"cuota_mensual": 288.53,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -1639,12 +1639,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 49.97,
+"cuota_mensual": 303.72,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1695,12 +1695,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 42.48,
+"cuota_mensual": 258.14,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1751,12 +1751,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.0,
+"cuota_mensual": 328.18,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21600.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,600 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1805,12 +1805,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 49.22,
+"cuota_mensual": 299.16,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19690.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,690 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1859,12 +1859,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 40.62,
+"cuota_mensual": 246.9,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16250.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,250 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1913,12 +1913,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 50.0,
+"cuota_mensual": 303.86,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19999.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,999 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -1967,12 +1967,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 49.97,
+"cuota_mensual": 303.72,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 19990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (19,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2021,12 +2021,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 50.75,
+"cuota_mensual": 308.42,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20299.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,299 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -2077,12 +2077,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 56.88,
+"cuota_mensual": 345.66,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22750.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,750 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2131,12 +2131,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 52.22,
+"cuota_mensual": 317.4,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20890.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,890 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2186,12 +2186,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 37.45,
+"cuota_mensual": 227.6,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 14980.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (14,980 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2240,12 +2240,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 52.47,
+"cuota_mensual": 318.92,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2294,12 +2294,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.22,
+"cuota_mensual": 329.55,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21690.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,690 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2348,12 +2348,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.72,
+"cuota_mensual": 332.59,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21890.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,890 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2402,12 +2402,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.72,
+"cuota_mensual": 332.59,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21890.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,890 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2456,12 +2456,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.72,
+"cuota_mensual": 332.59,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21890.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,890 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2510,12 +2510,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.85,
+"cuota_mensual": 333.35,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21940.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,940 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2564,12 +2564,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 44.97,
+"cuota_mensual": 273.33,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -2618,12 +2618,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 55.72,
+"cuota_mensual": 338.67,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22290.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,290 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2672,12 +2672,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 55.62,
+"cuota_mensual": 338.06,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22250.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,250 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2726,12 +2726,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 55.72,
+"cuota_mensual": 338.67,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22290.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,290 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2780,12 +2780,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 55.88,
+"cuota_mensual": 339.58,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22350.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,350 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2834,12 +2834,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 55.88,
+"cuota_mensual": 339.58,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22350.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,350 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -2889,12 +2889,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 51.22,
+"cuota_mensual": 311.32,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -2946,12 +2946,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 36.23,
+"cuota_mensual": 220.16,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 14490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (14,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3002,12 +3002,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 47.12,
+"cuota_mensual": 286.4,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18850.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,850 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3057,12 +3057,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.23,
+"cuota_mensual": 250.54,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3112,12 +3112,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 43.72,
+"cuota_mensual": 265.74,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3167,12 +3167,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 38.73,
+"cuota_mensual": 235.35,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 15490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (15,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3221,12 +3221,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 57.22,
+"cuota_mensual": 347.78,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 22890.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (22,890 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3275,12 +3275,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 42.75,
+"cuota_mensual": 259.8,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 17099.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (17,099 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3328,12 +3328,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 51.12,
+"cuota_mensual": 310.71,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20450.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,450 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
@@ -3381,12 +3381,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 47.47,
+"cuota_mensual": 288.53,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3436,12 +3436,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 42.48,
+"cuota_mensual": 258.14,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3492,12 +3492,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 54.97,
+"cuota_mensual": 334.11,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 21990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (21,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3547,12 +3547,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 46.22,
+"cuota_mensual": 280.93,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3601,12 +3601,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 41.23,
+"cuota_mensual": 250.54,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3656,12 +3656,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 52.47,
+"cuota_mensual": 318.92,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20990.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,990 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3710,12 +3710,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 46.22,
+"cuota_mensual": 280.93,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 18490.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (18,490 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3765,12 +3765,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 42.25,
+"cuota_mensual": 256.77,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 16900.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (16,900 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3819,12 +3819,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 39.75,
+"cuota_mensual": 241.58,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 15900.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (15,900 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": false,
@@ -3873,12 +3873,12 @@
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 51.12,
+"cuota_mensual": 310.71,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
-"capital_pendiente_al_final": 20450.0,
-"nota": "Solo intereses al 3% anual, sin entrada, capital (20,450 €) pendiente al final de los 72 meses"
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
 "nuevo_hoy": true,
