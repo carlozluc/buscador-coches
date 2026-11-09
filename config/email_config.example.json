@@ -1,0 +1,12 @@
+{
+  "activo": true,
+  "remitente": "tu-correo@gmail.com",
+  "destinatario": "tu-correo@gmail.com",
+  "app_password": "xxxx xxxx xxxx xxxx",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "_instrucciones": [
+    "Copia este archivo como email_config.json (ese nombre esta en .gitignore, nunca se sube al repo) para el envio local desde tu PC.",
+    "En GitHub Actions no se usa este archivo: las credenciales se leen de los Secrets EMAIL_REMITENTE, EMAIL_DESTINATARIO y EMAIL_APP_PASSWORD (ver README.md)."
+  ]
+}

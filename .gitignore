@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Credenciales SMTP reales: nunca al repo. En GitHub Actions se usan Secrets.
+config/email_config.json
+
+logs/
+output/

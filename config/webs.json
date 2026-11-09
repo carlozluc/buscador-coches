@@ -1,0 +1,78 @@
+{
+  "webs": [
+    {
+      "id": "ftomeocasion",
+      "nombre": "Ftome Ocasión",
+      "base_url": "https://www.ftomeocasion.com",
+      "acceso": "simple",
+      "robots_txt": "sin restricciones para bots genéricos",
+      "notas": "Concesionario multimarca de ocasión. Confirmar estructura real de la URL de búsqueda al implementar el scraper."
+    },
+    {
+      "id": "canalcar",
+      "nombre": "Canalcar",
+      "base_url": "https://www.canalcar.es",
+      "acceso": "simple",
+      "robots_txt": "sin restricciones para bots genéricos (solo bloquea páginas legales y bots de IA/SEO)",
+      "notas": "Concesionario de ocasión en Las Rozas, Madrid, desde 1964. Coincide con la ubicación del usuario."
+    },
+    {
+      "id": "clicars",
+      "nombre": "Clicars",
+      "base_url": "https://www.clicars.com",
+      "acceso": "headless",
+      "robots_txt": "abierto salvo /completado, /test y /blog/wp-admin",
+      "notas": "Probable renderizado con JS pesado (SPA); usar Playwright."
+    },
+    {
+      "id": "coches_com",
+      "nombre": "coches.com",
+      "base_url": "https://www.coches.com",
+      "acceso": "simple",
+      "robots_txt": "abierto salvo /reserva, /contacto, /index.php",
+      "notas": "Portal de anuncios con fichas de segunda mano, ej. /coches-segunda-mano/*.htm"
+    },
+    {
+      "id": "flexicar",
+      "nombre": "Flexicar",
+      "base_url": "https://www.flexicar.es",
+      "acceso": "headless",
+      "robots_txt": "abierto salvo /admin, /api, /iniciar-sesion y endpoint /search/",
+      "notas": "NO IMPLEMENTADO todavia en el scraper. Es una SPA Next.js: los coches vienen embebidos en un bloque __NEXT_DATA__ -> props.pageProps.initialVehicles con datos muy limpios (precio, km, year, ecoSticker, financingConditions...), pero el filtrado real por marca/modelo no se resolvio por URL ni por la API publica dentro del tiempo disponible en el Paso 5 (se probaron varias combinaciones de query params sin que el listado se filtrara). Pendiente: inspeccionar la llamada real que dispara el formulario de busqueda del sitio (con mas tiempo / con ayuda manual) para completar sites/flexicar.py."
+    }
+  ],
+  "excluidas": [
+    {
+      "id": "coches_net",
+      "motivo": "robots.txt bloquea explicitamente busqueda filtrada, paginacion y fichas de vehiculo (Vehiculo.aspx). Se respeta y se excluye del scraper automatico; el usuario puede seguir consultandolo a mano."
+    },
+    {
+      "id": "autocasion",
+      "motivo": "robots.txt bloquea todos los parametros de filtro de busqueda (anno, combustible, kms, precio, etc.) y rutas /particular/ y /coches-segunda-mano/-ocasion*."
+    },
+    {
+      "id": "autoscout24_es",
+      "motivo": "robots.txt bloquea /lst? (listado de resultados) y /busqueda-detallada."
+    },
+    {
+      "id": "milanuncios",
+      "motivo": "robots.txt bloquea todos los parametros de filtro de la seccion motor (combustible, marca, modelo, ano, orden, pagina)."
+    },
+    {
+      "id": "wallapop",
+      "motivo": "robots.txt bloquea /search y cualquier URL con parametros de consulta (?)."
+    },
+    {
+      "id": "ocasionplus",
+      "motivo": "robots.txt bloquea todos los parametros de filtro (marca, modelo, price_min/max, km_min/max, year_min/max, etc.) y /search."
+    },
+    {
+      "id": "motor_es",
+      "motivo": "robots.txt bloquea /vercoche/* que es la ficha de vehiculo."
+    },
+    {
+      "id": "quecochemecompro",
+      "motivo": "robots.txt bloquea paginacion y /coches/by_brand/, rutas clave para navegar resultados."
+    }
+  ]
+}

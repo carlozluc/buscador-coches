@@ -1,0 +1,24 @@
+{
+  "precio_min": 12000,
+  "precio_max": 23000,
+  "ubicacion": "Madrid",
+  "radio_km": 50,
+  "combustible_aceptado": ["gasolina", "hibrido_no_enchufable"],
+  "etiqueta_dgt_aceptada": ["C", "ECO"],
+  "km_max_generico": 120000,
+  "vendedor_aceptado": ["profesional", "particular"],
+  "propietarios_preferente_max": 2,
+  "palabras_clave_historial_positivas": [
+    "revisiones al día",
+    "libro de mantenimiento",
+    "revisiones en concesionario oficial",
+    "revisiones en taller oficial",
+    "mantenimiento oficial",
+    "historial disponible",
+    "informe carfax",
+    "informe de kilometraje",
+    "km garantizados",
+    "un solo propietario",
+    "un único propietario"
+  ]
+}

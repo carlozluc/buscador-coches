@@ -1,0 +1,65 @@
+name: Informe diario de coches
+
+on:
+  schedule:
+    # 06:30 UTC ~= 07:30/08:30 hora de Madrid (segun horario de invierno/verano)
+    - cron: "30 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Instalar navegador de Playwright
+        run: playwright install --with-deps chromium
+
+      - name: Ejecutar scraping, scoring y generacion de informe/app
+        env:
+          EMAIL_REMITENTE: ${{ secrets.EMAIL_REMITENTE }}
+          EMAIL_DESTINATARIO: ${{ secrets.EMAIL_DESTINATARIO }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          APP_URL: ${{ vars.APP_URL }}
+        run: python run_daily.py
+
+      - name: Guardar historico (base de datos y datos de la app)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add db/coches.sqlite3 webapp/data.json
+          git diff --cached --quiet || git commit -m "Actualizacion diaria de datos [skip ci]"
+          git push
+
+      - name: Preparar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir la app como artefacto de Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: webapp
+
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
