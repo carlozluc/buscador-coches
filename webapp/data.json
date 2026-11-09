@@ -1,5 +1,5 @@
 {
-"generado": "2026-11-09T20:49:09.212946+00:00",
+"generado": "2026-11-09T21:05:20.815261+00:00",
 "fecha": "2026-11-09",
 "modelos": [
 {
@@ -489,6 +489,211 @@
 ],
 "fotos": [],
 "foto_atribucion": null
+},
+{
+"id": "skoda_kodiaq",
+"nombre": "Skoda Kodiaq gasolina",
+"marca": "Skoda",
+"fiabilidad_puntuacion": 3.4,
+"fiabilidad_descripcion": "El Kodiaq a gasolina tiene una fiabilidad mecánica aceptable pero no sobresaliente dentro del segmento SUV grande: el motor 1.5 TSI es en general más robusto que el 2.0 TSI, aunque ambos han mostrado consumo de aceite y carbonilla en válvulas por la inyección directa, sobre todo en unidades de producción muy temprana (2017-2018). El punto débil más repetido en foros y fuentes especializadas es la caja DSG de doble embrague, con episodios de tirones, vacilación a baja velocidad y averías de mecatrónica que pueden costar 1.500-3.500 €, aunque Skoda ha publicado actualizaciones de software para mitigarlo. La segunda generación (desde 2023/2024) aún no tiene historial de fiabilidad a largo plazo, por lo que se recomienda priorizar la primera generación con algunos años de rodaje. El nivel de certeza de estos datos es medio: se basa en foros de propietarios, bases de boletines técnicos (Open Labor Project, Au7o) y recalls oficiales, no en estadísticas de averías masivas tipo TÜV/ADAC específicas para el Kodiaq gasolina.",
+"resumen_problemas": "Caja DSG con posibles tirones y fallos de mecatrónica, y motores TSI con consumo de aceite y acumulación de carbonilla en válvulas de admisión, especialmente en unidades de producción muy temprana.",
+"resumen_parametros": "Se buscarán unidades de 2019 a 2022 (preferentemente desde 2020), con menos de 130.000 km, motor 1.5 o 2.0 TSI evitando las primeras series problemáticas, y precio entre 20.000 y 27.000 €.",
+"revision_obligada": [
+"Solicitar historial de mantenimiento de la caja DSG (cambios de aceite cada 60.000 km) y comprobar actualizaciones de software del mecatrónico",
+"Realizar una prueba de conducción prolongada detectando tirones, vacilaciones o cambios bruscos entre 1ª y 2ª velocidad",
+"Revisar nivel y consistencia del aceite de motor, y preguntar por el consumo entre cambios (indicativo de desgaste en TSI)",
+"Comprobar en el VIN si la unidad está afectada por el recall de airbag lateral (campaña reciente) o por recalls anteriores (Takata, carcasa de airbag)",
+"Inspeccionar el sistema de infoentretenimiento (pantalla, conectividad) en busca de congelamientos o reinicios",
+"Verificar el estado de frenos traseros y comprobar escaneo OBD sin códigos de error pendientes relacionados con el turbo o la inyección directa"
+],
+"tabla_detalle": [
+{
+"tipo": "Problema",
+"tema": "Caja de cambios DSG (doble embrague)",
+"descripcion": "La DSG (DQ500 de 7 marchas en baño húmedo para versiones más potentes, DQ381 en baño de aceite desde ~2018) presenta tirones, vacilación a baja velocidad y, en casos recurrentes, fallo de la unidad mecatrónica. La reparación suele costar entre 1.500 y 3.500 € aproximadamente. Skoda ha lanzado varias actualizaciones de software que mejoran pero no eliminan el problema en todas las unidades.",
+"fuente": "Au7o (known-issues), foros de propietarios VAG"
+},
+{
+"tipo": "Problema",
+"tema": "Consumo de aceite y carbonilla en motores TSI",
+"descripcion": "Los motores 1.5 y 2.0 TSI de inyección directa acumulan carbonilla en las válvulas de admisión con el tiempo, y las unidades de producción muy temprana (1.5 TSI ACT 2017-2018) han mostrado consumo de aceite elevado, en algunos casos ligado a fallos de junta de culata.",
+"fuente": "Open Labor Project, foros Skoda-Club/VAG"
+},
+{
+"tipo": "Problema",
+"tema": "Recall de airbag lateral en unidades recientes",
+"descripcion": "Skoda ha retirado unas 49.766 unidades del Kodiaq (fabricadas entre finales de 2024 y finales de 2025) por riesgo de que el borde del armazón del asiento dañe el airbag lateral al desplegarse, reduciendo su protección. Existen también recalls más antiguos (Takata 2016-2017 y posible fallo en la carcasa del airbag del conductor en 2018).",
+"fuente": "car-recalls.eu, KBA"
+},
+{
+"tipo": "Interior y equipamiento",
+"tema": "Maletero, infoentretenimiento y materiales",
+"descripcion": "El Kodiaq destaca en su segmento por un maletero amplio (630-720 litros según configuración de 5 o 7 plazas) y materiales de buena calidad para su categoría; el sistema de infoentretenimiento (Amundsen/Columbus) es en general fiable, aunque en unidades de 2017-2019 se han reportado congelamientos ocasionales de pantalla que se resuelven con actualizaciones de software.",
+"fuente": "Fichas técnicas oficiales Skoda, foros de propietarios"
+},
+{
+"tipo": "Motorización",
+"tema": "1.5 TSI vs 2.0 TSI, manual vs DSG",
+"descripcion": "El 1.5 TSI (150 CV) con tecnología ACT (desactivación de cilindros) ofrece un buen equilibrio de consumo y fiabilidad para uso urbano/mixto, y es mecánicamente más sencillo que el 2.0 TSI (190-230 CV), más potente pero con mayor coste de mantenimiento. Para minimizar riesgos se recomienda priorizar el cambio manual, que evita el coste de la mecatrónica DSG; si se opta por DSG, conviene exigir el historial de cambios de aceite de la caja cada 60.000 km aproximadamente.",
+"fuente": "Fichas técnicas oficiales Skoda, análisis de mercado"
+},
+{
+"tipo": "Nota de mercado",
+"tema": "Falta de historial en la segunda generación",
+"descripcion": "La segunda generación del Kodiaq (lanzada en 2023, entregas en Europa desde mayo de 2024) todavía no cuenta con datos de fiabilidad a varios años vista, por lo que comprar una unidad Mk2 de segunda mano implica mayor incertidumbre sobre durabilidad a largo plazo.",
+"fuente": "Carvago"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Precio (presupuesto propio de este modelo)",
+"descripcion": "Solo se consideran anuncios entre 20.000 € y 27.000 €. Este modelo tiene un presupuesto distinto al general porque su precio de mercado real no encaja en el rango de 12.000-23.000 € del resto de finalistas. Los anuncios y estadísticas de mercado en España sitúan un Kodiaq de 2019 entre 17.445 y 26.840 € (media ~21.900 €, ~110.000 km) y uno de 2020 entre 20.300 y 29.000 € (media ~24.240 €, ~101.000 km), por lo que 20.000-27.000 € cubre bien unidades 2019-2022 con kilometraje razonable dentro del presupuesto familiar.",
+"fuente": "Research de precios de mercado"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Combustible",
+"descripcion": "Se excluyen directamente los anuncios de diésel o eléctrico puro. Solo entran gasolina e híbridos no enchufables (el combustible se infiere del texto del anuncio cuando la web no lo da en un campo propio).",
+"fuente": "Criterio definido por el usuario"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Año mínimo",
+"descripcion": "Se excluyen directamente los anuncios anteriores a 2019.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Año preferente",
+"descripcion": "El filtro deja pasar anuncios desde 2019 (no se excluyen los anteriores a 2020), pero en la puntuación se premian especialmente los años 2020 en adelante. Es decir: el filtrado es más amplio (2019+) que la preferencia real a la hora de puntuar (2020+).",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Kilometraje máximo",
+"descripcion": "Se excluyen directamente los anuncios con más de 130.000 km.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Cambio preferente",
+"descripcion": "No se excluyen otros tipos de cambio, pero puntúan más alto los anuncios con: manual, automatico.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Motor/variante a evitar",
+"descripcion": "No se excluyen directamente, pero restan puntos si el anuncio menciona: 1.5 TSI ACT de primeras series (2017-2018, antes de las actualizaciones de junta de culata), 2.0 TSI 190-230cv con DSG DQ500 de alto kilometraje sin cambios de aceite documentados.",
+"fuente": "Research de fiabilidad del modelo"
+}
+],
+"fotos": [
+"https://www.autofesa.com/media/cache/md/943b4268-d235-47e9-a95d-1842f48ab88c/1CayAT2vHjt7jfVohQ2uRg.webp",
+"https://fotos.inventario.pro/coche/2929/3641456/6691b409-b62c-7bbc-9a3c-033427e71a46/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"https://img.ocasionplus.com/o3xaQN50YjOurbZJAB1W8elToFfzD700GM78W18-XcQ/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvNzUvNTUvNTcvNS94MDEuanBnPzE1MzA5NDQ4ODg0",
+"https://www.autofesa.com/media/cache/md/8aac81af-865f-4ce1-8dc7-b934c1812313/1CfGv4F6Xr753TFNf42mB1.webp"
+],
+"foto_atribucion": null
+},
+{
+"id": "audi_q3",
+"nombre": "Audi Q3 gasolina",
+"marca": "Audi",
+"fiabilidad_puntuacion": 3.4,
+"fiabilidad_descripcion": "El Q3 F3 (2.ª generación) es, en conjunto, más fiable que el 8U, pero no está exento de problemas: el 2.0 TFSI de los primeros años conserva quejas de fallo prematuro del tensor de cadena de distribución, y la caja S tronic puede dar tirones a baja velocidad si no se respeta el cambio de aceite. El 1.5 TFSI (35 TFSI) tiene mejor fama de fiabilidad que el 2.0 TFSI. El nivel de certeza de estos datos es medio: se basan en agregadores de averías, foros de propietarios y prensa especializada, sin estadísticas oficiales tipo TÜV/ADAC u OCU específicas para este modelo. Una revisión de historial y una prueba de carretera siguen siendo imprescindibles antes de comprar.",
+"resumen_problemas": "Los focos de riesgo son el tensor de la cadena de distribución en el 2.0 TFSI y los tirones/vacilaciones de la caja S tronic por falta de mantenimiento del aceite de caja, además de recalls puntuales de dirección y pedal de freno.",
+"resumen_parametros": "Se buscarán unidades F3 de 2019-2023 (preferentemente desde 2020), con hasta 120.000 km, en gasolina 35/40/45 TFSI, en cambio manual o S tronic, dentro de 20.000-32.000 €.",
+"revision_obligada": [
+"Historial de revisión/sustitución del tensor de la cadena de distribución en motores 2.0 TFSI, y comprobar ruido de traqueteo en frío",
+"Verificar si el vehículo está incluido en alguna de las campañas de recall (polea de dirección, pedal de freno, tornillo de dirección) por número de bastidor",
+"Confirmar si la caja S tronic ha recibido el cambio de aceite periódico (no es 'de por vida') y probar el coche en frío buscando tirones a baja velocidad",
+"Revisar consumo de aceite (nivel y manchas de fuga) y pedir facturas de cambios de aceite con intervalos cortos",
+"Probar el sistema start-stop y la electrónica de asistencia (algunas unidades 2020 reportaron paradas de motor con el start-stop)",
+"Revisar estanqueidad del techo solar si lo lleva equipado (drenajes obstruidos reportados en unidades F3)"
+],
+"tabla_detalle": [
+{
+"tipo": "Problema",
+"tema": "Tensor de la cadena de distribución (2.0 TFSI EA888)",
+"descripcion": "Fallo prematuro documentado en foros (AudiWorld) y agregadores de averías, con traqueteo en frío como síntoma típico; en casos extremos provoca rotura de la distribución y daño motor severo (reparación estimada 6.000-10.000 $ en EE. UU.). Afecta sobre todo a unidades tempranas del F3 (2019-2020) y a los 8U anteriores a 2015.",
+"fuente": "au7o.io (agregador de problemas conocidos), foros AudiWorld"
+},
+{
+"tipo": "Problema",
+"tema": "Caja S tronic (DSG): tirones y mantenimiento",
+"descripcion": "Se reportan vacilaciones o tirones a baja velocidad, especialmente en los primeros 20.000-40.000 km, agravados si no se cambia el aceite de la caja (muchos asumen erróneamente que es 'de por vida'). El coste de sustituir el paquete de embragues se estima entre 3.000 y 5.000 $ en casos de fallo grave.",
+"fuente": "Guías de compra y agregadores (cararac.com, gebrauchtwagenberater.de), foros de propietarios VAG"
+},
+{
+"tipo": "Problema",
+"tema": "Consumo de aceite y acumulación de carbono en válvulas (2.0 TFSI)",
+"descripcion": "Los motores 2.0 TFSI de inyección directa tienden a acumular carbono en las válvulas de admisión con el tiempo, y las unidades más antiguas (8U pre-2015) mostraron consumo de aceite elevado por diseño de los aros del pistón.",
+"fuente": "au7o.io, carchecker.pro"
+},
+{
+"tipo": "Interior y equipamiento",
+"tema": "Maletero, infotainment y materiales",
+"descripcion": "El F3 ofrece un maletero de 530 litros (ampliable a 1.525 l), pantalla MMI táctil o con mando giratorio según equipamiento, y materiales de buena calidad percibida típica del segmento premium; el 8U es más sobrio pero también sólido en acabados.",
+"fuente": "Fichas tecnicas oficiales Audi"
+},
+{
+"tipo": "Motorización",
+"tema": "Gasolina: 35 TFSI (1.5), 40/45 TFSI (2.0)",
+"descripcion": "El 35 TFSI (150 CV, 1.5 litros EA211 evo) es la opción más fiable y eficiente, disponible con manual de 6 velocidades o S tronic de 7; buena elección para uso urbano/mixto. El 40 y 45 TFSI (2.0 litros, 190-245 CV, tracción quattro) ofrecen más prestaciones pero concentran más quejas de tensor de cadena y van siempre con S tronic. Para un uso familiar equilibrado entre fiabilidad y prestaciones, se recomienda el 35 TFSI o, si se busca tracción total, un 40 TFSI con historial de mantenimiento acreditado.",
+"fuente": "Fichas tecnicas oficiales Audi"
+},
+{
+"tipo": "Nota de mercado",
+"tema": "Recalls oficiales relevantes",
+"descripcion": "Existen tres campañas documentadas: (1) polea del cinturón de dirección en unidades jun-2019 a ene-2020; (2) perno del pedal de freno en unidades ago-2020 a jul-2021; (3) corrosión de un tornillo de dirección en unidades oct-2017 a may-2024 (campaña preventiva de 2026). Conviene comprobar el VIN en concesionario Audi o en la DGT antes de comprar.",
+"fuente": "car-recalls.eu, motor16.com, euronews.com"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Precio (presupuesto propio de este modelo)",
+"descripcion": "Solo se consideran anuncios entre 20.000 € y 32.000 €. Este modelo tiene un presupuesto distinto al general porque su precio de mercado real no encaja en el rango de 12.000-23.000 € del resto de finalistas. Anuncios reales en Carnovo y AutoUncle muestran Q3 35 TFSI de 2019 con 85.000-115.000 km entre 22.500 € y 28.500 €, con una media de mercado en torno a 28.000 € para el modelo en general; el rango se amplía ligeramente para cubrir unidades con menos kilómetros o acabado S line dentro del presupuesto familiar.",
+"fuente": "Research de precios de mercado"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Combustible",
+"descripcion": "Se excluyen directamente los anuncios de diésel o eléctrico puro. Solo entran gasolina e híbridos no enchufables (el combustible se infiere del texto del anuncio cuando la web no lo da en un campo propio).",
+"fuente": "Criterio definido por el usuario"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Año mínimo",
+"descripcion": "Se excluyen directamente los anuncios anteriores a 2019.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Año preferente",
+"descripcion": "El filtro deja pasar anuncios desde 2019 (no se excluyen los anteriores a 2020), pero en la puntuación se premian especialmente los años 2020 en adelante. Es decir: el filtrado es más amplio (2019+) que la preferencia real a la hora de puntuar (2020+).",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Filtro aplicado",
+"tema": "Kilometraje máximo",
+"descripcion": "Se excluyen directamente los anuncios con más de 120.000 km.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Cambio preferente",
+"descripcion": "No se excluyen otros tipos de cambio, pero puntúan más alto los anuncios con: manual, automatico.",
+"fuente": "Research de fiabilidad del modelo"
+},
+{
+"tipo": "Preferencia de puntuación",
+"tema": "Motor/variante a evitar",
+"descripcion": "No se excluyen directamente, pero restan puntos si el anuncio menciona: 2.0 TFSI (40/45 TFSI) de las primeras unidades F3 2019-2020 sin historial claro de revisión del tensor de cadena, 2.0 TFSI de Q3 8U anteriores a 2015 (riesgo de tensor de cadena y consumo de aceite).",
+"fuente": "Research de fiabilidad del modelo"
+}
+],
+"fotos": [
+"https://fotos.inventario.pro/coche/2929/3637480/d8a6c7ca-2c8f-1c55-06e6-e5bc6b9fded9/40543ad341c7ad9b85737cf1254c2d0f.jpg"
+],
+"foto_atribucion": null
 }
 ],
 "anuncios": [
@@ -520,6 +725,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 4.2/5. A favor: Precio un 18% por debajo de la mediana del mercado (21.140 €); Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 264.0,
@@ -574,6 +780,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -628,6 +835,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -682,6 +890,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 241.57,
@@ -710,6 +919,61 @@
 "primer_visto": "2026-11-07T11:49:38.241790+00:00"
 },
 {
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/audi/q3/3637480",
+"web_id": "ftomeocasion",
+"modelo_id": "audi_q3",
+"titulo": "Audi Q3 35 tfsi 150 cv advance",
+"marca": "Audi",
+"modelo": "Q3",
+"version": "35 tfsi 150 cv advance",
+"anio": 2020,
+"km": 44349,
+"precio": 27950.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3637480/d8a6c7ca-2c8f-1c55-06e6-e5bc6b9fded9/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 4.0,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2020, dentro del rango preferente (2020+)",
+"cambio manual, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2020, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 398.35,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 397.52,
+"entrada": 5590.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 69.88,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 27950.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (27,950 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:01:09.549174+00:00"
+},
+{
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3559151",
 "web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
@@ -736,6 +1000,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 3.9/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 256.4,
@@ -762,6 +1027,61 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.268041+00:00"
+},
+{
+"url": "https://www.autofesa.com/coches-de-ocasion/skoda/kodiaq/1-5-tsi-4x2-active-150cv-7-plazas-5p-iva-deducible-parktronic",
+"web_id": "autofesa",
+"modelo_id": "skoda_kodiaq",
+"titulo": "Skoda Kodiaq 1.5 TSI 4X2 ACTIVE 150CV 7 PLAZAS 5P # IVA DEDUCIBLE, PARKTRONIC",
+"marca": "Skoda",
+"modelo": "Kodiaq",
+"version": "1.5 TSI 4X2 ACTIVE 150CV 7 PLAZAS 5P # IVA DEDUCIBLE, PARKTRONIC",
+"anio": 2021,
+"km": 56300,
+"precio": 22950.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://www.autofesa.com/media/cache/md/943b4268-d235-47e9-a95d-1842f48ab88c/1CayAT2vHjt7jfVohQ2uRg.webp",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.9,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2021, dentro del rango preferente (2020+)",
+"cambio manual, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 3.9/5. A favor: Kilometraje muy bajo para el modelo; Año 2021, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 350.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 326.41,
+"entrada": 4590.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 57.38,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 22950.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (22,950 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:00:55.763940+00:00"
 },
 {
 "url": "https://www.autofesa.com/coches-de-ocasion/suzuki/vitara/1-5-dualjet-hybrid-auto-strong-116cv-5p-iva-deducible-parktronic-camara-trasera",
@@ -791,6 +1111,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 3.9/5. A favor: Precio un 10% por debajo de la mediana del mercado (21.140 €); Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+); Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 289.0,
@@ -845,6 +1166,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 280.77,
@@ -901,6 +1223,7 @@
 "contras": [
 "precio un 21% por encima de la mediana del mercado (16.990 €)"
 ],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional. En contra: Precio un 21% por encima de la mediana del mercado (16.990 €).",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 292.88,
@@ -956,6 +1279,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 294.0,
@@ -1011,6 +1335,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -1066,6 +1391,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -1121,6 +1447,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -1176,6 +1503,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 240.0,
@@ -1231,6 +1559,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 298.0,
@@ -1257,6 +1586,61 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:48:33.623131+00:00"
+},
+{
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kodiaq/3641456",
+"web_id": "ftomeocasion",
+"modelo_id": "skoda_kodiaq",
+"titulo": "Skoda Kodiaq 1.5 tsi 150 cv 4x2 active",
+"marca": "Skoda",
+"modelo": "Kodiaq",
+"version": "1.5 tsi 150 cv 4x2 active",
+"anio": 2020,
+"km": 85973,
+"precio": 21950.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3641456/6691b409-b62c-7bbc-9a3c-033427e71a46/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.7,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2020, dentro del rango preferente (2020+)",
+"cambio manual, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 3.7/5. A favor: Kilometraje dentro del rango recomendado; Año 2020, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 312.84,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 312.19,
+"entrada": 4390.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 54.88,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 21950.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (21,950 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:00:55.720780+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2023-147012",
@@ -1286,6 +1670,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.6/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 253.0,
@@ -1341,6 +1726,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Precio un 20% por debajo de la mediana del mercado (21.140 €); Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 239.0,
@@ -1396,6 +1782,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2026, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 280.0,
@@ -1449,6 +1836,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1504,6 +1892,7 @@
 "contras": [
 "precio un 27% por encima de la mediana del mercado (16.990 €)"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 27% por encima de la mediana del mercado (16.990 €).",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 307.85,
@@ -1557,6 +1946,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1610,6 +2000,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1663,6 +2054,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 14773.0,
@@ -1716,6 +2108,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1769,6 +2162,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1822,6 +2216,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -1877,6 +2272,7 @@
 "contras": [
 "precio un 34% por encima de la mediana del mercado (16.990 €)"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 34% por encima de la mediana del mercado (16.990 €).",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 324.24,
@@ -1931,6 +2327,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Precio un 12% por debajo de la mediana del mercado (16.990 €); Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 13316.0,
@@ -1984,6 +2381,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2037,6 +2435,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2090,6 +2489,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2143,6 +2543,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2196,6 +2597,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2249,6 +2651,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2302,6 +2705,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2355,6 +2759,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2408,6 +2813,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2461,6 +2867,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2489,6 +2896,61 @@
 "primer_visto": "2026-11-07T11:48:33.596308+00:00"
 },
 {
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kodiaq-15-tsi-125-aniversario-4x2-con-99744km-2020-b2h3zqaq",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kodiaq",
+"titulo": "Skoda Kodiaq 1.5 TSI 125 Aniversario 4x2 (150 CV)",
+"marca": "Skoda",
+"modelo": "Kodiaq",
+"version": "1.5 TSI 125 Aniversario 4x2 (150 CV)",
+"anio": 2020,
+"km": 99744,
+"precio": 20490.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/o3xaQN50YjOurbZJAB1W8elToFfzD700GM78W18-XcQ/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvNzUvNTUvNTcvNS94MDEuanBnPzE1MzA5NDQ4ODg0",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Villalba Juan Carlos I",
+"puntuacion": 3.33,
+"pros": [
+"año 2020, dentro del rango preferente (2020+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2020, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 325.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 291.42,
+"entrada": 4098.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 51.22,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 20490.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (20,490 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:00:55.768724+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2-4wd.htm?id=whonSp5nFgdK",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -2514,6 +2976,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2570,6 +3033,7 @@
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 15% por debajo de la mediana del mercado (16.990 €); Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 205.0,
@@ -2623,6 +3087,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 19% por debajo de la mediana del mercado (21.140 €); Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2677,6 +3142,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 232.0,
@@ -2730,6 +3196,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 232.0,
@@ -2785,6 +3252,7 @@
 "contras": [
 "kilometraje dentro del rango recomendado"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 268.65,
@@ -2839,6 +3307,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 246.0,
@@ -2867,6 +3336,59 @@
 "primer_visto": "2026-11-07T11:49:38.372923+00:00"
 },
 {
+"url": "https://www.autofesa.com/coches-de-ocasion/skoda/kodiaq/1-5-tsi-150cv-auto-7-plazas-5p-techo-panoramico-ele-navi-parktornic-camara-trasera",
+"web_id": "autofesa",
+"modelo_id": "skoda_kodiaq",
+"titulo": "Skoda Kodiaq 1.5 TSI 150CV AUTO 7 PLAZAS 5P # TECHO PANORAMICO ELE,NAVI,PARKTORNIC,CAMARA TRASERA",
+"marca": "Skoda",
+"modelo": "Kodiaq",
+"version": "1.5 TSI 150CV AUTO 7 PLAZAS 5P # TECHO PANORAMICO ELE,NAVI,PARKTORNIC,CAMARA TRASERA",
+"anio": 2019,
+"km": 96400,
+"precio": 20450.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://www.autofesa.com/media/cache/md/8aac81af-865f-4ce1-8dc7-b934c1812313/1CfGv4F6Xr753TFNf42mB1.webp",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.26,
+"pros": [
+"cambio automatico, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 3.3/5. A favor: Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 327.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 290.85,
+"entrada": 4090.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 51.12,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 20450.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (20,450 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:00:55.756658+00:00"
+},
+{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-143565",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -2893,6 +3415,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 239.0,
@@ -2945,6 +3468,7 @@
 "vendedor profesional"
 ],
 "contras": [],
+"explicacion": "Puntuación 3.2/5. A favor: Año 2022, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 270.65,
@@ -3000,6 +3524,7 @@
 "precio un 29% por encima de la mediana del mercado (16.990 €)",
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Precio un 29% por encima de la mediana del mercado (16.990 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 307.0,
@@ -3053,6 +3578,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.2/5. A favor: Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 246.0,
@@ -3107,6 +3633,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje dentro del rango recomendado; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 260.0,
@@ -3161,6 +3688,7 @@
 "precio un 24% por encima de la mediana del mercado (16.990 €)",
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.1/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+). En contra: Precio un 24% por encima de la mediana del mercado (16.990 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 19082.0,
@@ -3189,6 +3717,62 @@
 "primer_visto": "2026-11-07T11:49:38.337096+00:00"
 },
 {
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-audi-q3-q3-sportback-35-tfsi-black-line-150-suv-y-4x4-automatico-2022-143627",
+"web_id": "clicars",
+"modelo_id": "audi_q3",
+"titulo": "Audi Q3 Sportback 35 TFSI Black line",
+"marca": "Audi",
+"modelo": "Q3",
+"version": "Sportback 35 TFSI Black line",
+"anio": 2022,
+"km": 112219,
+"precio": 31990.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.12,
+"pros": [
+"año 2022, dentro del rango preferente (2020+)",
+"cambio automatico, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"kilometraje dentro del rango recomendado",
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.1/5. A favor: Año 2022, dentro del rango preferente (2020+); Cambio automatico, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 448.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 454.98,
+"entrada": 6398.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 79.97,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 31990.0,
+"nota": "Solo intereses al 3% anual, sin entrada, capital (31,990 €) pendiente al final de los 72 meses"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:01:09.594543+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s1.htm?id=C6I77qR4QjkH",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -3215,6 +3799,7 @@
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.0/5. A favor: Precio un 20% por debajo de la mediana del mercado (21.140 €); Año 2022, dentro del rango preferente (2022+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3268,6 +3853,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 3.0/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3321,6 +3907,7 @@
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
+"explicacion": "Puntuación 2.9/5. A favor: Año 2022, dentro del rango preferente (2021+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 14455.0,
@@ -3374,6 +3961,7 @@
 "contras": [
 "kilometraje dentro del rango recomendado"
 ],
+"explicacion": "Puntuación 2.8/5. A favor: Garantía de 12 meses; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 312.0,

@@ -9,6 +9,7 @@ from pathlib import Path
 from db import storage
 from financing import simular as simular_financiacion
 from report.generate_report import _es_hoy, _filas_parametros_aplicados, _pros_contras
+from scoring import construir_explicacion
 
 BASE_DIR = Path(__file__).parent.parent
 WEBAPP_DIR = BASE_DIR / "webapp"
@@ -44,6 +45,7 @@ def _anuncio_a_dict(row) -> dict:
         "puntuacion": row["puntuacion"],
         "pros": pros,
         "contras": contras,
+        "explicacion": construir_explicacion(row["puntuacion"], pros, contras),
         "financiacion": simular_financiacion(row["precio"], row["cuota_financiacion_vendedor"]),
         "nuevo_hoy": nuevo,
         "bajada_precio": bajada,

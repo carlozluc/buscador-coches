@@ -123,12 +123,7 @@ dialog.modal-modelo::backdrop { background: rgba(20,16,10,.55); }
 .specs span { background: var(--chip-bg); padding: 2px 7px; border-radius: 6px; }
 .precio { font-size: 1.15rem; font-weight: 700; display: flex; justify-content: space-between; align-items: baseline; color: var(--accent); }
 .garantia { font-size: .7rem; color: var(--good-fg); font-weight: 600; }
-.pros-contras summary { cursor: pointer; font-size: .76rem; font-weight: 600; color: var(--fg-muted); padding: 4px 0; }
-.pros-contras-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 6px; }
-.pros-contras-grid .pc-etiqueta { font-size: .66rem; text-transform: uppercase; font-weight: 700; letter-spacing: .03em; }
-.pros-contras-grid .pros .pc-etiqueta { color: var(--good-fg); }
-.pros-contras-grid .contras .pc-etiqueta { color: var(--bad-fg); }
-.pros-contras-grid ul { margin: 4px 0 0; padding-left: 16px; font-size: .74rem; display: flex; flex-direction: column; gap: 3px; }
+.explicacion-puntuacion { font-size: .78rem; color: var(--fg-muted); margin: 2px 0 0; line-height: 1.4; }
 .financiacion { width: 100%; font-size: .76rem; border-collapse: collapse; margin-top: 2px; }
 .financiacion td { padding: 3px 0; border-top: 1px solid var(--border); }
 .financiacion td:last-child { text-align: right; font-weight: 600; font-family: var(--font-mono); }

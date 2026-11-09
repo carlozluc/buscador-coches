@@ -8,6 +8,7 @@ from pathlib import Path
 
 from db import storage
 from financing import simular as simular_financiacion
+from scoring import construir_explicacion
 
 BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR.parent / "output"
@@ -85,8 +86,7 @@ def _tarjeta_html(row, nombre_modelo: str) -> str:
     estrellas = "★" * round(puntuacion) + "☆" * (5 - round(puntuacion))
 
     pros, contras = _pros_contras(row)
-    pros_html = "".join(f"<li>{html.escape(p)}</li>" for p in pros) or "<li>Sin puntos fuertes destacados</li>"
-    contras_html = "".join(f"<li>{html.escape(c)}</li>" for c in contras) or "<li>Sin puntos débiles destacados</li>"
+    explicacion = construir_explicacion(puntuacion, pros, contras)
 
     return f"""
     <article class="tarjeta" data-modelo="{html.escape(row["modelo_id"])}" data-puntuacion="{puntuacion}"
@@ -110,13 +110,7 @@ def _tarjeta_html(row, nombre_modelo: str) -> str:
         <div class="precio num">{_fmt_eur(row["precio"])}
           <span class="garantia">{f'Garantía {row["garantia_meses"]} meses' if row["garantia_meses"] else ''}</span>
         </div>
-        <details class="pros-contras">
-          <summary>Por qué esta puntuación ({puntuacion}/5)</summary>
-          <div class="pros-contras-grid">
-            <div class="pros"><span class="pc-etiqueta">A favor</span><ul>{pros_html}</ul></div>
-            <div class="contras"><span class="pc-etiqueta">En contra</span><ul>{contras_html}</ul></div>
-          </div>
-        </details>
+        <p class="explicacion-puntuacion">{html.escape(explicacion)}</p>
         <table class="financiacion">{_financiacion_filas(row)}</table>
         <div class="pie">
           <span class="web">{html.escape(row["web_id"])}</span>
@@ -134,8 +128,8 @@ def _top10_html(filas_todas: list, nombres_modelo: dict) -> str:
 
     tarjetas = ""
     for i, row in enumerate(top, start=1):
-        pros, _contras = _pros_contras(row)
-        motivos_txt = "; ".join(pros[:3]) if pros else "cumple los parámetros definidos para el modelo"
+        pros, contras = _pros_contras(row)
+        explicacion = construir_explicacion(row["puntuacion"], pros, contras)
         foto = row["foto_url"] or PLACEHOLDER_SVG
         tarjetas += f"""
         <article class="top10-item">
@@ -144,7 +138,7 @@ def _top10_html(filas_todas: list, nombres_modelo: dict) -> str:
           <div class="top10-cuerpo">
             <div class="eyebrow">{html.escape(nombres_modelo.get(row["modelo_id"], ""))}</div>
             <h3>{html.escape(row["titulo"] or "")}</h3>
-            <p class="top10-motivo">{html.escape(motivos_txt.capitalize())}.</p>
+            <p class="top10-motivo">{html.escape(explicacion)}</p>
             <div class="top10-datos">
               <span class="precio num">{_fmt_eur(row["precio"])}</span>
               <span class="num">{_fmt_km(row["km"])}</span>
@@ -171,12 +165,26 @@ def _filas_parametros_aplicados(modelo: dict, generales: dict) -> list[dict]:
     filas: list[dict] = []
     fuente_research = "Research de fiabilidad del modelo"
 
-    filas.append({
-        "tipo": "Filtro aplicado",
-        "tema": "Precio",
-        "descripcion": f"Solo se consideran anuncios entre {_fmt_num(generales.get('precio_min'))} € y {_fmt_num(generales.get('precio_max'))} €. Es el rango de presupuesto general, igual para todos los modelos.",
-        "fuente": "Presupuesto definido por el usuario",
-    })
+    precio_min_modelo = modelo.get("precio_min")
+    precio_max_modelo = modelo.get("precio_max")
+    if precio_min_modelo is not None or precio_max_modelo is not None:
+        precio_min_efectivo = precio_min_modelo if precio_min_modelo is not None else generales.get("precio_min")
+        precio_max_efectivo = precio_max_modelo if precio_max_modelo is not None else generales.get("precio_max")
+        filas.append({
+            "tipo": "Filtro aplicado",
+            "tema": "Precio (presupuesto propio de este modelo)",
+            "descripcion": f"Solo se consideran anuncios entre {_fmt_num(precio_min_efectivo)} € y {_fmt_num(precio_max_efectivo)} €. "
+                            f"Este modelo tiene un presupuesto distinto al general porque su precio de mercado real no encaja en el rango de 12.000-23.000 € del resto de finalistas."
+                            + (f" {modelo['justificacion_precio']}" if modelo.get("justificacion_precio") else ""),
+            "fuente": "Research de precios de mercado" if modelo.get("justificacion_precio") else "Presupuesto definido por el usuario",
+        })
+    else:
+        filas.append({
+            "tipo": "Filtro aplicado",
+            "tema": "Precio",
+            "descripcion": f"Solo se consideran anuncios entre {_fmt_num(generales.get('precio_min'))} € y {_fmt_num(generales.get('precio_max'))} €. Es el rango de presupuesto general, igual para todos los modelos.",
+            "fuente": "Presupuesto definido por el usuario",
+        })
     filas.append({
         "tipo": "Filtro aplicado",
         "tema": "Combustible",
@@ -478,12 +486,7 @@ p.subtitulo-seccion { color: var(--fg-muted); margin: 0 0 18px; max-width: 65ch;
 .specs span { background: var(--chip-bg); padding: 2px 7px; border-radius: 6px; }
 .precio { font-size: 1.2rem; font-weight: 700; display: flex; justify-content: space-between; align-items: baseline; color: var(--accent); }
 .garantia { font-size: .72rem; color: var(--good-fg); font-weight: 600; }
-.pros-contras summary { cursor: pointer; font-size: .78rem; font-weight: 600; color: var(--fg-muted); padding: 4px 0; }
-.pros-contras-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 6px; }
-.pros-contras-grid .pc-etiqueta { font-size: .68rem; text-transform: uppercase; font-weight: 700; letter-spacing: .03em; }
-.pros-contras-grid .pros .pc-etiqueta { color: var(--good-fg); }
-.pros-contras-grid .contras .pc-etiqueta { color: var(--bad-fg); }
-.pros-contras-grid ul { margin: 4px 0 0; padding-left: 16px; font-size: .76rem; display: flex; flex-direction: column; gap: 3px; }
+.explicacion-puntuacion { font-size: .8rem; color: var(--fg-muted); margin: 2px 0 0; line-height: 1.4; }
 .financiacion { width: 100%; font-size: .78rem; border-collapse: collapse; margin-top: 2px; }
 .financiacion td { padding: 3px 0; border-top: 1px solid var(--border); }
 .financiacion td:last-child { text-align: right; font-weight: 600; font-family: var(--font-mono); }

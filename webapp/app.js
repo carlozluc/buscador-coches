@@ -68,13 +68,6 @@
     var fotoClase = a.foto_url ? "foto" : "foto foto-generica";
     var puntuacion = a.puntuacion || 0;
 
-    var pros = (a.pros && a.pros.length ? a.pros : ["Sin puntos fuertes destacados"])
-      .map(function (p) { return "<li>" + esc(p) + "</li>"; })
-      .join("");
-    var contras = (a.contras && a.contras.length ? a.contras : ["Sin puntos débiles destacados"])
-      .map(function (c) { return "<li>" + esc(c) + "</li>"; })
-      .join("");
-
     var art = document.createElement("article");
     art.className = "tarjeta";
     art.dataset.modelo = a.modelo_id || "";
@@ -99,9 +92,7 @@
       "<span>" + esc(a.ubicacion || "-") + "</span>" +
       "</div>" +
       '<div class="precio num">' + fmtEur(a.precio) + '<span class="garantia">' + (a.garantia_meses ? "Garantía " + a.garantia_meses + " meses" : "") + "</span></div>" +
-      '<details class="pros-contras"><summary>Por qué esta puntuación (' + puntuacion + '/5)</summary>' +
-      '<div class="pros-contras-grid"><div class="pros"><span class="pc-etiqueta">A favor</span><ul>' + pros + "</ul></div>" +
-      '<div class="contras"><span class="pc-etiqueta">En contra</span><ul>' + contras + "</ul></div></div></details>" +
+      '<p class="explicacion-puntuacion">' + esc(a.explicacion || "") + "</p>" +
       tablaFinanciacion(a.financiacion) +
       '<div class="pie"><span class="web">' + esc(a.web_id) + '</span><a class="enlace" href="' + esc(a.url) + '" target="_blank" rel="noopener">Ver anuncio</a></div>' +
       "</div>";
@@ -127,8 +118,6 @@
     var grid = document.createElement("div");
     grid.className = "top10-grid";
     top.forEach(function (a, i) {
-      var motivo = (a.pros && a.pros.length) ? a.pros.slice(0, 3).join("; ") : "cumple los parámetros definidos para el modelo";
-      motivo = motivo.charAt(0).toUpperCase() + motivo.slice(1);
       var el = document.createElement("a");
       el.className = "top10-item";
       el.href = a.url;
@@ -140,7 +129,7 @@
         '<div class="top10-cuerpo">' +
         '<div class="eyebrow">' + esc(nombresModelo[a.modelo_id] || "") + "</div>" +
         "<h3>" + esc(a.titulo) + "</h3>" +
-        '<p class="top10-motivo">' + esc(motivo) + ".</p>" +
+        '<p class="top10-motivo">' + esc(a.explicacion || "") + "</p>" +
         '<div class="top10-datos">' +
         '<span class="precio num">' + fmtEur(a.precio) + "</span>" +
         '<span class="num">' + fmtKm(a.km) + "</span>" +

@@ -108,13 +108,15 @@ def inferir_combustible(texto: str) -> Optional[str]:
     if not texto:
         return None
     t = texto.lower()
-    if re.search(r"\b(tdi|hdi|cdi|dci|crdi|bluehdi|multijet)\b", t):
+    # Sin \b al principio: el motor suele venir pegado a la cilindrada sin espacio
+    # (p.ej. "2.0TDI", "1.5TSI"), y ahi "\b" no detecta frontera entre digito y letra.
+    if re.search(r"(tdi|hdi|cdi|dci|crdi|bluehdi|multijet)\b", t):
         return "diesel"
-    if re.search(r"\b(phev|e-?hybrid|ehybrid)\b", t) and "mild" not in t:
+    if re.search(r"(phev|e-?hybrid|ehybrid|tfsie|tsie)\b", t) and "mild" not in t:
         return "hibrido_enchufable"
-    if re.search(r"\b(hev|hybrid|h[ií]brido|e-?boxer|boosterjet|mild.?hybrid)\b", t):
+    if re.search(r"(hev|hybrid|h[ií]brido|e-?boxer|boosterjet|mild.?hybrid)\b", t):
         return "hibrido_no_enchufable"
-    if re.search(r"\b(tsi|tfsi|mpi|vti|gasolina|turbojet|puretech)\b", t):
+    if re.search(r"(tsi|tfsi|mpi|vti|gasolina|turbojet|puretech)\b", t):
         return "gasolina"
     return None
 

@@ -186,3 +186,22 @@ def puntuar(
 def calcular_puntuacion(listing: Any, parametros_modelo: dict, parametros_generales: dict, precios_comparables: list[float]) -> float:
     """Compatibilidad: devuelve solo la nota final."""
     return puntuar(listing, parametros_modelo, parametros_generales, precios_comparables)["nota"]
+
+
+def _capitaliza(texto: str) -> str:
+    return texto[0].upper() + texto[1:] if texto else texto
+
+
+def construir_explicacion(puntuacion: float | None, pros: list[str], contras: list[str]) -> str:
+    """Parrafo legible que explica por que un anuncio tiene la puntuacion que tiene,
+    a partir de los pros/contras que ya calcula puntuar(). Se muestra siempre visible
+    junto a cada anuncio (no solo en un desplegable), tanto en el email como en la app."""
+    nota_txt = f"{puntuacion:.1f}/5" if puntuacion is not None else "sin puntuar"
+    partes = [f"Puntuación {nota_txt}."]
+    if pros:
+        partes.append("A favor: " + "; ".join(_capitaliza(p) for p in pros) + ".")
+    if contras:
+        partes.append("En contra: " + "; ".join(_capitaliza(c) for c in contras) + ".")
+    if not pros and not contras:
+        partes.append("Cumple los parámetros definidos para el modelo, sin aspectos que destaquen especialmente en ningún sentido.")
+    return " ".join(partes)

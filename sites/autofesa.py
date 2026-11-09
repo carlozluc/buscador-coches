@@ -74,8 +74,13 @@ def _parse_card(card) -> Listing | None:
             cambio = normaliza_cambio(it)
         elif it.lower() in ("gasolina", "diesel", "diésel", "hibrido", "híbrido", "eléctrico", "electrico"):
             combustible = normaliza_combustible(it)
+    combustible_titulo = inferir_combustible(titulo)
     if not combustible:
-        combustible = inferir_combustible(titulo)
+        combustible = combustible_titulo
+    elif combustible == "hibrido_no_enchufable" and combustible_titulo == "hibrido_enchufable":
+        # La etiqueta "Hibrido" generica de autofesa no distingue enchufable/no enchufable;
+        # si el titulo lo deja claro (p.ej. "TFSIe"), ese dato es mas fiable.
+        combustible = combustible_titulo
 
     precio_el = card.select_one(".vehicle-card__price .current span")
     precio = parse_precio(precio_el.get_text()) if precio_el else None

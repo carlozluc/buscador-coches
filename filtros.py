@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from sites.base import Listing
 
-COMBUSTIBLES_EXCLUIDOS = {"diesel", "electrico"}  # el usuario pidio gasolina o hibrido no enchufable
+COMBUSTIBLES_EXCLUIDOS = {"diesel", "electrico", "hibrido_enchufable"}  # el usuario pidio gasolina o hibrido no enchufable
 
 # Webs donde la ubicacion del anuncio no se filtra por texto: ftomeocasion/canalcar/autofesa
 # son concesionarios fisicos en Madrid (todo su stock esta ahi), y clicars es un vendedor
@@ -14,7 +14,9 @@ WEBS_SIEMPRE_DENTRO_DE_UBICACION = {"ftomeocasion", "canalcar", "autofesa", "cli
 def pasa_filtros(listing: Listing, parametros_modelo: dict, parametros_generales: dict) -> tuple[bool, str]:
     if listing.precio is None:
         return False, "sin precio"
-    if not (parametros_generales["precio_min"] <= listing.precio <= parametros_generales["precio_max"]):
+    precio_min = parametros_modelo.get("precio_min", parametros_generales["precio_min"])
+    precio_max = parametros_modelo.get("precio_max", parametros_generales["precio_max"])
+    if not (precio_min <= listing.precio <= precio_max):
         return False, f"precio fuera de rango ({listing.precio})"
 
     ubicacion_objetivo = (parametros_generales.get("ubicacion") or "").strip().lower()
