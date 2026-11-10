@@ -344,6 +344,66 @@
       ]
     },
     {
+      "id": "mercedes_gla250_4matic_x156",
+      "categoria": "comparacion",
+      "nombre": "Mercedes GLA 250 4MATIC (1ª generación X156) — comparación",
+      "marca": "Mercedes-Benz",
+      "modelos_busqueda": [
+        "GLA"
+      ],
+      "titulo_debe_incluir": [
+        "250"
+      ],
+      "anio_min": 2015,
+      "anio_max": 2019,
+      "anio_preferente_desde": 2017,
+      "km_max": 180000,
+      "cambio_preferente": [
+        "automatico"
+      ],
+      "motor_evitar": [],
+      "precio_min": 10000,
+      "precio_max": 24000,
+      "justificacion_precio": "No es un presupuesto objetivo, es el rango real observado en anuncios de GLA 250 4MATIC X156 (2015-2019) en España: unidades con 65.000-96.000 km rondan 20.000-28.000 €; unidades con más km o sin tanto equipamiento bajan de 24.000 €. Se amplía el filtro hasta 10.000 € por abajo para no perder unidades de km muy alto que también sirven de referencia de precio mínimo real.",
+      "fiabilidad_puntuacion": 2.7,
+      "fiabilidad_descripcion": "Es el mismo motor 2.0 turbo M274 que recomendamos como la mejor opción gasolina del GLA (ficha 'mercedes_gla'), pero montado en la generación X156 (no la H247 2020+ que prioriza la herramienta) y con la versión más antigua de la caja de doble embrague (DCT250), anterior a las mejoras térmicas de la H247. A la antigüedad real de estas unidades en el mercado de hoy (9-11 años) se suma que la ventana de fallo conocida del DCT (60.000-120.000 km) ya ha pasado o está muy próxima en la mayoría de unidades, independientemente del km que marque el cuentakilómetros si no hay historial de mantenimiento de la mecatrónica. Por eso esta ficha puntúa más bajo que la del GLA H247 pese a llevar el motor que mejor valoramos.",
+      "motivo_preferencia_anio": "Dentro de la X156, preferible desde el restyling de 2017 (mejoras de software del DCT y de calidad de producción frente a 2015-2016); evitar unidades 2015-2016 específicamente por los problemas de anillos de pistón/lubricación reportados en el motor M270/M274 de esos años.",
+      "resumen_problemas": "Misma caja DCT que el GLA H247 pero en su versión más antigua (DCT250), con 9+ años de antigüedad real: la ventana de fallo (60.000-120.000 km) ya ha pasado o está encima en la mayoría de unidades del mercado. Motor 2.0 turbo M274 con reportes de anillos de pistón/lubricación en unidades 2015-2016.",
+      "resumen_parametros": "Se buscan unidades GLA cuyo título incluya '250' (para aislar el 250 4MATIC del resto de motorizaciones), año 2015-2019, cambio automático, hasta 180.000 km, precio entre 10.000 y 24.000 €. Esta ficha no compite en el Top 10 ni en el ranking de finalistas: es una referencia de mercado para comparar con una unidad concreta.",
+      "tabla_detalle": [
+        {
+          "tipo": "Problema",
+          "tema": "Caja DCT250 (versión de la X156, anterior a la H247)",
+          "descripcion": "Mismo mecanismo de fallo que en la H247 (tirones y vibración a baja velocidad, mecatrónica desde 1.500-2.200 €), pero sin las mejoras de gestión térmica de la caja de la 2ª generación, y con 9+ años de uso real acumulado en el mercado actual, por lo que la ventana de fallo típica (60.000-120.000 km) ya ha quedado atrás o está encima en la mayoría de unidades disponibles hoy.",
+          "fuente": "Au7o.io, Carverif.fr, TrueDelta (mismas fuentes que la ficha 'mercedes_gla')"
+        },
+        {
+          "tipo": "Problema",
+          "tema": "Motor 2.0 turbo M274, unidades 2015-2016",
+          "descripcion": "Reportes de problemas de anillos de pistón y lubricación específicamente en las primeras series (2015-2016); menos frecuentes desde el restyling de 2017.",
+          "fuente": "Europremiumparts, guías técnicas del motor"
+        },
+        {
+          "tipo": "Nota de mercado",
+          "tema": "Por qué esta ficha no es un finalista",
+          "descripcion": "Se añade exclusivamente para comparar con una unidad concreta (GLA 250 4MATIC matrícula 5952KCK, matriculada 01/07/2017) que un vendedor ofreció al usuario, y para que la app pueda mostrar en la misma pestaña anuncios reales similares a esa unidad. No entra en el ranking de finalistas ni en el Top 10 porque la 2ª generación (H247, ficha 'mercedes_gla') tiene mejor perfil de riesgo a precio similar.",
+          "fuente": "Análisis de mercado, no research de fiabilidad"
+        }
+      ],
+      "revision_obligada": [
+        "Historial completo de servicio del DCT (cambios de aceite/filtro de la mecatronica); sin ese historial, dar por hecho que esta cerca o dentro de la ventana de riesgo",
+        "Prueba de conduccion con maniobras D-R repetidas y aceleracion suave buscando tirones, en frio y en caliente",
+        "Nivel/consumo de aceite de motor",
+        "Ruido de cadena de distribucion en frio",
+        "Confirmar recalls aplicados (motor de arranque, marzo 2017)",
+        "Revisar aceite y estado del reparto 4MATIC (caja transfer/diferencial trasero), no solo el motor y el DCT",
+        "Presupuestar posible reparacion de DCT: 1.500-2.200 EUR solo embrague, mas probable a esta antiguedad que en una unidad H247"
+      ],
+      "comparacion_titulo": "Mercedes GLA 250 4MATIC (5952KCK, matriculado 01/07/2017)",
+      "comparacion_resumen": "Esta unidad lleva el motor 2.0 turbo M274 (211 CV) que la herramienta recomienda como la mejor opción gasolina del GLA, pero montado en la 1ª generación (X156, 2017) con la versión más antigua del cambio automático DCT — justo la combinación generación+caja que la ficha 'mercedes_gla' señala como mayor riesgo, y por eso la herramienta solo rastrea la 2ª generación (H247, 2020+) por defecto. A día de hoy (9 años desde su matriculación) la ventana de fallo conocida del DCT (60.000-120.000 km) ya ha pasado o está encima en la mayoría de unidades de este tipo en el mercado, tenga el km que tenga el cuentakilómetros, salvo que haya historial documentado de mantenimiento de la mecatrónica. El equipamiento de fábrica es muy alto (config. de enero de 2017: 64.300,51 € con AMG Line, Paquete Premium, Exclusivo AMG, Night, DISTRONIC, techo panorámico y llantas de 19\"), pero el equipamiento no reduce el riesgo mecánico ni compra tanta revalorización como en un coche nuevo. Anuncios reales de GLA 250 4MATIC X156 de 2017 encontrados en el mercado rondan 20.000-28.000 € con 65.000-96.000 km — es decir, al precio que se suele pedir por esta unidad, ya se puede encontrar un GLA H247 (2ª generación, 2020-2021) con mejor perfil de caja y 3-4 años menos. Condiciones para que esta unidad concreta mereciera la pena: precio ≤ 16.000-18.000 € (no los 20.000-28.000 € que marca el mercado para esta generación) y km ≤ 90.000-100.000 (idealmente con cambio de aceite de la mecatrónica documentado entre 60.000-80.000 km), más una prueba de conducción sin tirones ni vacilación en frío. Fuera de esos rangos, a precio similar compensa más un H247 ya rastreado por la herramienta en la pestaña 'Todos los anuncios' (filtro: Mercedes GLA gasolina).",
+      "alternativas_texto": "Buscando alternativas reales a precio parecido (research de mercado, no datos de un anuncio fijo): en el rango 20.000-28.000 € ya aparecen unidades GLA H247 (2ª generación) de 2021 con buen kilometraje, por ejemplo GLA 200d diésel de 2021 con 137.000-147.000 km en torno a 25.000-25.500 €, que llevan la caja DCT mejorada y 4 años menos de antigüedad que la unidad X156 de 2017, aunque hay que valorar que el OM654 diésel es distinto al 250 gasolina del anuncio original. Si el objetivo es mantenerse en gasolina con la mejor relación motor/caja dentro del GLA, la combinación más razonable sigue siendo un H247 250 o 200 de 2021-2022 (ya cubierto por la ficha 'mercedes_gla' de esta misma herramienta) en vez de pagar precio de H247 por una unidad X156. Si en cambio el objetivo es maletero/espacio por encima de la marca Mercedes al mismo presupuesto, el Škoda Kodiaq ya tracked en la herramienta (20.000-27.000 €) da más espacio real por euro, aunque sea otro segmento. Nota: estos son datos de mercado de hoy, no anuncios concretos verificados uno a uno; conviene contrastar precios actuales en el momento de decidir."
+    },
+    {
       "id": "skoda_kodiaq",
       "nombre": "Skoda Kodiaq gasolina",
       "marca": "Skoda",

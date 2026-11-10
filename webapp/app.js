@@ -178,7 +178,7 @@
     var cont = document.getElementById("fichas-contenedor");
     cont.innerHTML = "";
     var dialogo = document.getElementById("modal-ficha");
-    modelos.forEach(function (m) {
+    modelos.filter(function (m) { return m.categoria !== "comparacion"; }).forEach(function (m) {
       var foto = (m.fotos && m.fotos[0]) || PLACEHOLDER_SVG;
       var btn = document.createElement("button");
       btn.type = "button";
@@ -261,13 +261,49 @@
     return nombresModelo;
   }
 
+  function renderComparativas(modelos, nombresModelo) {
+    var cont = document.getElementById("comparativas-contenedor");
+    cont.innerHTML = "";
+    var comparativas = modelos.filter(function (m) { return m.categoria === "comparacion"; });
+    if (!comparativas.length) {
+      cont.innerHTML = '<p class="sin-resultados">No hay ninguna comparativa activa ahora mismo.</p>';
+      return;
+    }
+    comparativas.forEach(function (m) {
+      var bloque = document.createElement("article");
+      bloque.className = "comparativa-bloque";
+
+      var anunciosSimilares = window.__datosApp.anuncios.filter(function (a) { return a.modelo_id === m.id; });
+      var tarjetasHtml = "";
+      if (anunciosSimilares.length) {
+        var contTarjetas = document.createElement("div");
+        contTarjetas.className = "tarjetas";
+        anunciosSimilares
+          .slice()
+          .sort(function (a, b) { return (b.puntuacion || 0) - (a.puntuacion || 0); })
+          .forEach(function (a) { contTarjetas.appendChild(tarjetaAnuncioHtml(a, nombresModelo[a.modelo_id] || a.modelo_id)); });
+        tarjetasHtml = contTarjetas.outerHTML;
+      } else {
+        tarjetasHtml = '<p class="sin-resultados">Todavía no hemos encontrado anuncios similares activos en el mercado.</p>';
+      }
+
+      bloque.innerHTML =
+        "<h3>" + esc(m.comparacion_titulo || m.nombre) + "</h3>" +
+        '<div class="comparativa-veredicto"><span class="ficha-etiqueta">Valoración</span><p>' + esc(m.comparacion_resumen || "") + "</p></div>" +
+        '<div class="comparativa-veredicto"><span class="ficha-etiqueta">Alternativas que consideramos mejores</span><p>' + esc(m.alternativas_texto || "") + "</p></div>" +
+        "<h4>Anuncios similares encontrados hoy</h4>" +
+        tarjetasHtml;
+      cont.appendChild(bloque);
+    });
+  }
+
   function initTabs() {
     var botones = Array.prototype.slice.call(document.querySelectorAll(".tabs-nav button"));
     botones.forEach(function (btn) {
       btn.addEventListener("click", function () {
         botones.forEach(function (b) { b.classList.remove("activa"); });
         btn.classList.add("activa");
-        ["top10", "fiabilidad", "anuncios"].forEach(function (tab) {
+        ["top10", "fiabilidad", "anuncios", "comparativas"].forEach(function (tab) {
           document.getElementById("panel-" + tab).hidden = tab !== btn.dataset.tab;
         });
       });
@@ -303,10 +339,25 @@
     initTabs();
     initModal();
     cargarDatos().then(function (data) {
+      window.__datosApp = data;
       renderHero(data);
-      var nombresModelo = renderAnuncios(data);
-      renderTop10(data.anuncios, nombresModelo);
+
+      var nombresModeloTodos = {};
+      var idsComparacion = {};
+      data.modelos.forEach(function (m) {
+        nombresModeloTodos[m.id] = m.nombre;
+        if (m.categoria === "comparacion") idsComparacion[m.id] = true;
+      });
+
+      var dataFinalistas = {
+        modelos: data.modelos.filter(function (m) { return !idsComparacion[m.id]; }),
+        anuncios: data.anuncios.filter(function (a) { return !idsComparacion[a.modelo_id]; }),
+      };
+
+      var nombresModelo = renderAnuncios(dataFinalistas);
+      renderTop10(dataFinalistas.anuncios, nombresModelo);
       renderFichas(data.modelos);
+      renderComparativas(data.modelos, nombresModeloTodos);
     }).catch(function (err) {
       document.getElementById("subtitulo-hero").textContent = "No se pudieron cargar los datos. Revisa la conexión y recarga.";
       console.error(err);

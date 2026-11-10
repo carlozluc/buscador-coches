@@ -135,6 +135,12 @@ dialog.modal-modelo::backdrop { background: rgba(20,16,10,.55); }
 .offline-aviso { background: var(--warn-bg); color: var(--warn-fg); padding: 8px 14px; border-radius: 10px; font-size: .82rem; margin-bottom: 14px; }
 .offline-aviso[hidden] { display: none; }
 
+.comparativa-bloque { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 16px; margin-bottom: 18px; }
+.comparativa-bloque h3 { font-family: var(--font-display); font-size: 1.15rem; margin: 0 0 10px; }
+.comparativa-bloque h4 { font-size: .9rem; margin: 16px 0 10px; }
+.comparativa-veredicto { background: var(--chip-bg); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+.comparativa-veredicto p { margin: 3px 0 0; font-size: .85rem; line-height: 1.45; }
+
 @media (max-width: 560px) {
   .pros-contras-grid { grid-template-columns: 1fr; }
   .top10-item { grid-template-columns: 22px 84px 1fr; }

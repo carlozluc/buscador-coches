@@ -546,8 +546,14 @@ JS = """
 def generar_informe(parametros_modelos: list[dict], parametros_generales: dict) -> Path:
     conn = storage.conectar()
 
+    # Los modelos de categoria "comparacion" (p.ej. una unidad concreta que ofrecio un
+    # vendedor) son solo una referencia de mercado para la webapp: no son finalistas, asi
+    # que no entran en el Top 10, el listado ni las fichas del informe por email.
+    parametros_modelos = [m for m in parametros_modelos if m.get("categoria", "finalista") != "comparacion"]
+    ids_finalistas = {m["id"] for m in parametros_modelos}
+
     nombres_modelo = {m["id"]: m["nombre"] for m in parametros_modelos}
-    todas_las_filas = storage.todos_los_anuncios_activos(conn)
+    todas_las_filas = [f for f in storage.todos_los_anuncios_activos(conn) if f["modelo_id"] in ids_finalistas]
 
     opciones_modelo = "".join(
         f'<option value="{html.escape(m["id"])}">{html.escape(m["nombre"])}</option>' for m in parametros_modelos

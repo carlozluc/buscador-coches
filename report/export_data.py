@@ -68,6 +68,7 @@ def _modelo_a_dict(conn, modelo: dict, generales: dict) -> dict:
         "id": modelo["id"],
         "nombre": modelo["nombre"],
         "marca": modelo["marca"],
+        "categoria": modelo.get("categoria", "finalista"),
         "fiabilidad_puntuacion": modelo.get("fiabilidad_puntuacion"),
         "fiabilidad_descripcion": modelo.get("fiabilidad_descripcion"),
         "resumen_problemas": modelo.get("resumen_problemas"),
@@ -76,6 +77,9 @@ def _modelo_a_dict(conn, modelo: dict, generales: dict) -> dict:
         "tabla_detalle": tabla,
         "fotos": fotos,
         "foto_atribucion": atribucion,
+        "comparacion_titulo": modelo.get("comparacion_titulo"),
+        "comparacion_resumen": modelo.get("comparacion_resumen"),
+        "alternativas_texto": modelo.get("alternativas_texto"),
     }
 
 

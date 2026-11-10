@@ -27,6 +27,12 @@ def pasa_filtros(listing: Listing, parametros_modelo: dict, parametros_generales
     if listing.combustible in COMBUSTIBLES_EXCLUIDOS:
         return False, f"combustible excluido ({listing.combustible})"
 
+    titulo_debe_incluir = parametros_modelo.get("titulo_debe_incluir") or []
+    if titulo_debe_incluir:
+        titulo = (listing.titulo or "").lower()
+        if not all(palabra.lower() in titulo for palabra in titulo_debe_incluir):
+            return False, f"titulo no incluye {titulo_debe_incluir}"
+
     km_max = parametros_modelo.get("km_max", parametros_generales.get("km_max_generico", 120000))
     if listing.km is not None and listing.km > km_max:
         return False, f"km por encima del maximo del modelo ({listing.km} > {km_max})"

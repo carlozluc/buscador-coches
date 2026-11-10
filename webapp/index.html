@@ -35,6 +35,7 @@
     <button type="button" data-tab="top10" class="activa" role="tab">Top 10 de hoy</button>
     <button type="button" data-tab="fiabilidad" role="tab">Fichas técnicas</button>
     <button type="button" data-tab="anuncios" role="tab">Todos los anuncios</button>
+    <button type="button" data-tab="comparativas" role="tab">Comparativas</button>
   </nav>
 
   <section id="panel-top10" class="tab-panel">
@@ -78,6 +79,12 @@
       <span class="contador" id="contador-resultados"></span>
     </div>
     <div class="tarjetas" id="listado"></div>
+  </section>
+
+  <section id="panel-comparativas" class="tab-panel" hidden>
+    <h2 class="titulo-seccion">Comparativas</h2>
+    <p class="subtitulo-seccion">Unidades concretas que alguien nos ha ofrecido, comparadas con las fichas técnicas de la herramienta: no son finalistas ni entran en el Top 10, son solo referencia para decidir si merecen la pena.</p>
+    <div id="comparativas-contenedor"></div>
   </section>
 
 </div>
