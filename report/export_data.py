@@ -80,6 +80,7 @@ def _modelo_a_dict(conn, modelo: dict, generales: dict) -> dict:
         "comparacion_titulo": modelo.get("comparacion_titulo"),
         "comparacion_resumen": modelo.get("comparacion_resumen"),
         "alternativas_texto": modelo.get("alternativas_texto"),
+        "es_alternativa_de": modelo.get("es_alternativa_de"),
     }
 
 

@@ -404,6 +404,39 @@
       "alternativas_texto": "Buscando alternativas reales a precio parecido (research de mercado, no datos de un anuncio fijo): en el rango 20.000-28.000 € ya aparecen unidades GLA H247 (2ª generación) de 2021 con buen kilometraje, por ejemplo GLA 200d diésel de 2021 con 137.000-147.000 km en torno a 25.000-25.500 €, que llevan la caja DCT mejorada y 4 años menos de antigüedad que la unidad X156 de 2017, aunque hay que valorar que el OM654 diésel es distinto al 250 gasolina del anuncio original. Si el objetivo es mantenerse en gasolina con la mejor relación motor/caja dentro del GLA, la combinación más razonable sigue siendo un H247 250 o 200 de 2021-2022 (ya cubierto por la ficha 'mercedes_gla' de esta misma herramienta) en vez de pagar precio de H247 por una unidad X156. Si en cambio el objetivo es maletero/espacio por encima de la marca Mercedes al mismo presupuesto, el Škoda Kodiaq ya tracked en la herramienta (20.000-27.000 €) da más espacio real por euro, aunque sea otro segmento. Nota: estos son datos de mercado de hoy, no anuncios concretos verificados uno a uno; conviene contrastar precios actuales en el momento de decidir."
     },
     {
+      "id": "mercedes_gla_h247_alternativas",
+      "categoria": "comparacion",
+      "es_alternativa_de": "mercedes_gla250_4matic_x156",
+      "nombre": "Mercedes GLA 2ª generación (H247) — alternativas por debajo de 30.000€",
+      "marca": "Mercedes-Benz",
+      "modelos_busqueda": [
+        "GLA"
+      ],
+      "anio_min": 2021,
+      "anio_max": 2026,
+      "km_max": 120000,
+      "precio_max": 30000,
+      "combustibles_excluidos": [
+        "electrico",
+        "hibrido_enchufable"
+      ],
+      "cambio_preferente": [
+        "automatico"
+      ],
+      "motor_evitar": [],
+      "justificacion_precio": "No es el presupuesto objetivo del usuario, es el tope que pidió explícitamente para ver alternativas reales de 2ª generación (H247) por debajo de 30.000 € y 120.000 km, incluyendo diésel y gasolina (no solo gasolina, a diferencia del resto de la herramienta).",
+      "fiabilidad_puntuacion": 3.0,
+      "fiabilidad_descripcion": "Misma 2ª generación H247 que la ficha finalista 'mercedes_gla', con la caja de cambios mejorada frente a la X156 (ver esa ficha para el detalle completo de problemas conocidos y motorizaciones). Esta ficha solo existe para listar alternativas reales por debajo de 30.000 €, incluyendo diésel (OM654), que la ficha finalista no rastrea porque el presupuesto general de la herramienta excluye el combustible diésel.",
+      "motivo_preferencia_anio": "anio_min 2021 (no 2020) para evitar ambigüedad: el H247 empezó a entregarse a mediados de 2020 en España, así que unidades matriculadas en 2020 podrían ser todavía la 1ª generación (X156) saliente. Desde 2021 ya es inequívocamente H247.",
+      "resumen_problemas": "Mismos problemas que la ficha finalista del GLA (caja DCT, ver 'mercedes_gla'), pero aquí se incluye también el 200d/220d diésel (motor OM654, de los más fiables del grupo) para ampliar las alternativas por debajo de 30.000 €.",
+      "resumen_parametros": "GLA 2021 en adelante (para asegurar 2ª generación H247), hasta 120.000 km, hasta 30.000 €, diésel o gasolina (no electrico ni hibrido enchufable).",
+      "tabla_detalle": [],
+      "revision_obligada": [
+        "Ver 'revision_obligada' de la ficha finalista 'mercedes_gla' (caja DCT, aceite de motor)",
+        "Si es diesel (200d/220d): historial de cambios de filtro de particulas y de aceite (intervalos mas cortos que en gasolina)"
+      ]
+    },
+    {
       "id": "skoda_kodiaq",
       "nombre": "Skoda Kodiaq gasolina",
       "marca": "Skoda",

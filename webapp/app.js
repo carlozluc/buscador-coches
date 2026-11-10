@@ -261,38 +261,51 @@
     return nombresModelo;
   }
 
+  function tarjetasAnunciosHtml(modeloId, nombresModelo, sinResultadosTexto) {
+    var anuncios = window.__datosApp.anuncios.filter(function (a) { return a.modelo_id === modeloId; });
+    if (!anuncios.length) {
+      return '<p class="sin-resultados">' + esc(sinResultadosTexto) + "</p>";
+    }
+    var contTarjetas = document.createElement("div");
+    contTarjetas.className = "tarjetas";
+    anuncios
+      .slice()
+      .sort(function (a, b) { return (b.puntuacion || 0) - (a.puntuacion || 0); })
+      .forEach(function (a) { contTarjetas.appendChild(tarjetaAnuncioHtml(a, nombresModelo[a.modelo_id] || a.modelo_id)); });
+    return contTarjetas.outerHTML;
+  }
+
   function renderComparativas(modelos, nombresModelo) {
     var cont = document.getElementById("comparativas-contenedor");
     cont.innerHTML = "";
-    var comparativas = modelos.filter(function (m) { return m.categoria === "comparacion"; });
+    var comparativas = modelos.filter(function (m) { return m.categoria === "comparacion" && !m.es_alternativa_de; });
     if (!comparativas.length) {
       cont.innerHTML = '<p class="sin-resultados">No hay ninguna comparativa activa ahora mismo.</p>';
       return;
     }
+    var alternativasPorPadre = {};
+    modelos.filter(function (m) { return m.categoria === "comparacion" && m.es_alternativa_de; }).forEach(function (m) {
+      (alternativasPorPadre[m.es_alternativa_de] = alternativasPorPadre[m.es_alternativa_de] || []).push(m);
+    });
+
     comparativas.forEach(function (m) {
       var bloque = document.createElement("article");
       bloque.className = "comparativa-bloque";
 
-      var anunciosSimilares = window.__datosApp.anuncios.filter(function (a) { return a.modelo_id === m.id; });
-      var tarjetasHtml = "";
-      if (anunciosSimilares.length) {
-        var contTarjetas = document.createElement("div");
-        contTarjetas.className = "tarjetas";
-        anunciosSimilares
-          .slice()
-          .sort(function (a, b) { return (b.puntuacion || 0) - (a.puntuacion || 0); })
-          .forEach(function (a) { contTarjetas.appendChild(tarjetaAnuncioHtml(a, nombresModelo[a.modelo_id] || a.modelo_id)); });
-        tarjetasHtml = contTarjetas.outerHTML;
-      } else {
-        tarjetasHtml = '<p class="sin-resultados">Todavía no hemos encontrado anuncios similares activos en el mercado.</p>';
-      }
+      var alternativasHtml = (alternativasPorPadre[m.id] || []).map(function (alt) {
+        return (
+          "<h4>" + esc(alt.nombre) + "</h4>" +
+          tarjetasAnunciosHtml(alt.id, nombresModelo, "Todavía no hemos encontrado anuncios de esta alternativa en el mercado.")
+        );
+      }).join("");
 
       bloque.innerHTML =
         "<h3>" + esc(m.comparacion_titulo || m.nombre) + "</h3>" +
         '<div class="comparativa-veredicto"><span class="ficha-etiqueta">Valoración</span><p>' + esc(m.comparacion_resumen || "") + "</p></div>" +
         '<div class="comparativa-veredicto"><span class="ficha-etiqueta">Alternativas que consideramos mejores</span><p>' + esc(m.alternativas_texto || "") + "</p></div>" +
         "<h4>Anuncios similares encontrados hoy</h4>" +
-        tarjetasHtml;
+        tarjetasAnunciosHtml(m.id, nombresModelo, "Todavía no hemos encontrado anuncios similares activos en el mercado.") +
+        alternativasHtml;
       cont.appendChild(bloque);
     });
   }

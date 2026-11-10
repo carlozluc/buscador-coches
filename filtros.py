@@ -24,7 +24,10 @@ def pasa_filtros(listing: Listing, parametros_modelo: dict, parametros_generales
         if not listing.ubicacion or ubicacion_objetivo not in listing.ubicacion.lower():
             return False, f"fuera de {parametros_generales.get('ubicacion')} (ubicacion anuncio: {listing.ubicacion})"
 
-    if listing.combustible in COMBUSTIBLES_EXCLUIDOS:
+    combustibles_excluidos = parametros_modelo.get("combustibles_excluidos")
+    if combustibles_excluidos is None:
+        combustibles_excluidos = COMBUSTIBLES_EXCLUIDOS
+    if listing.combustible in combustibles_excluidos:
         return False, f"combustible excluido ({listing.combustible})"
 
     titulo_debe_incluir = parametros_modelo.get("titulo_debe_incluir") or []
