@@ -1,6 +1,6 @@
 {
-"generado": "2026-11-10T15:12:53.206639+00:00",
-"fecha": "2026-11-10",
+"generado": "2026-11-11T18:54:35.360255+00:00",
+"fecha": "2026-11-11",
 "modelos": [
 {
 "id": "suzuki_scross_vitara",
@@ -99,8 +99,8 @@
 "https://images.coches.com/_ccom_/1fc8c212-2fc8-4fd6-8179-22867f8828a1/23ec1302-6233-4ef9-ae0c-00f2fa359c47.jpg",
 "https://images.coches.com/_ccom_/09d6c443-9472-4d24-9a68-d2e345f435e6/f8142179-f1fd-4f8b-931f-884898a28641.jpg",
 "https://images.coches.com/_ccom_/d02fb6cf-48f3-4e65-9511-3e1dfcf140bc/f7871777-19e3-4ad0-b994-e73de268747f.jpg",
-"https://images.coches.com/_ccom_/556c9be7-1400-4c0d-8a2a-7be578f97d81/6e7a8608-95d9-4be1-bb5d-8d3c27b94b1f.jpg",
-"https://images.coches.com/_ccom_/fb3f02ea-edbe-4743-97c8-00a1a3bcab50/f61d3184-1f88-4ac4-b938-9dc8e22512b8.jpg"
+"https://images.coches.com/_ccom_/fb3f02ea-edbe-4743-97c8-00a1a3bcab50/f61d3184-1f88-4ac4-b938-9dc8e22512b8.jpg",
+"https://images.coches.com/_ccom_/2da80a99-7734-45f7-869e-19703f09f2de/8c702e60-952c-465a-a98d-007e9b5aa723.jpg"
 ],
 "foto_atribucion": null,
 "comparacion_titulo": null,
@@ -643,7 +643,9 @@
 ],
 "fotos": [
 "https://images.coches.com/_ccom_/4270fe6f-82f6-4ebb-b5b7-968dfb60a9db/cef5bb6f-fb56-4982-93f9-c111284211c9.jpg",
-"https://images.coches.com/_ccom_/0c85885a-ae47-420a-859a-992154332999/005a7ad7-dc3d-4dae-90bd-8a5c8fe96ed2.jpg"
+"https://images.coches.com/_ccom_/acffd2ed-32fc-4328-8ff5-ec5f1518c666/500662fc-0aa2-4403-a925-7a4fb811ba82.jpg",
+"https://images.coches.com/_ccom_/0c85885a-ae47-420a-859a-992154332999/005a7ad7-dc3d-4dae-90bd-8a5c8fe96ed2.jpg",
+"https://images.coches.com/_ccom_/83c7b7bf-7060-4254-a2fd-cf53b524cdf8/3bdb4c12-a388-4386-8d31-6d7531e6a93b.jpg"
 ],
 "foto_atribucion": null,
 "comparacion_titulo": null,
@@ -780,9 +782,9 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 4.22,
+"puntuacion": 4.23,
 "pros": [
-"precio un 18% por debajo de la mediana del mercado (21.140 €)",
+"precio un 19% por debajo de la mediana del mercado (21.490 €)",
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2022+)",
 "cambio manual, el recomendado para este modelo",
@@ -790,7 +792,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 4.2/5. A favor: Precio un 18% por debajo de la mediana del mercado (21.140 €); Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 4.2/5. A favor: Precio un 19% por debajo de la mediana del mercado (21.490 €); Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 264.0,
@@ -836,7 +838,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": "Madrid - Arganda",
-"puntuacion": 4.05,
+"puntuacion": 4.03,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -891,7 +893,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": "Madrid - Arganda",
-"puntuacion": 4.05,
+"puntuacion": 4.03,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -946,7 +948,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 4.04,
+"puntuacion": 4.02,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2021+)",
@@ -984,6 +986,62 @@
 "primer_visto": "2026-11-07T11:49:38.241790+00:00"
 },
 {
+"url": "https://www.autofesa.com/coches-de-ocasion/suzuki/vitara/1-5-dualjet-hybrid-auto-strong-116cv-5p-iva-deducible-parktronic-camara-trasera",
+"web_id": "autofesa",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "Suzuki Vitara 1.5 DUALJET HYBRID AUTO STRONG 116CV 5P # IVA DEDUCIBLE,PARKTRONIC,CAMARA TRASERA",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "1.5 DUALJET HYBRID AUTO STRONG 116CV 5P # IVA DEDUCIBLE,PARKTRONIC,CAMARA TRASERA",
+"anio": 2024,
+"km": 78144,
+"precio": 17850.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": "automatico",
+"etiqueta": "ECO",
+"foto_url": "https://www.autofesa.com/media/cache/md/b68d1c97-77c2-4a12-99ba-7f24239d23a7/1CfK3bP2sJcAoJEkRFbDsL.webp",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.96,
+"pros": [
+"precio un 17% por debajo de la mediana del mercado (21.490 €)",
+"kilometraje dentro del rango recomendado",
+"año 2024, dentro del rango preferente (2022+)",
+"cambio automatico, el recomendado para este modelo",
+"garantía de 12 meses",
+"vendedor profesional"
+],
+"contras": [],
+"explicacion": "Puntuación 4.0/5. A favor: Precio un 17% por debajo de la mediana del mercado (21.490 €); Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+); Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 289.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 253.88,
+"entrada": 3570.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 271.21,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": true,
+"precio_anterior": 18950.0,
+"primer_visto": "2026-11-09T08:28:36.243370+00:00"
+},
+{
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3559151",
 "web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
@@ -1001,7 +1059,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.96,
+"puntuacion": 3.95,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2021+)",
@@ -1094,62 +1152,6 @@
 "primer_visto": "2026-11-09T21:00:55.763940+00:00"
 },
 {
-"url": "https://www.autofesa.com/coches-de-ocasion/suzuki/vitara/1-5-dualjet-hybrid-auto-strong-116cv-5p-iva-deducible-parktronic-camara-trasera",
-"web_id": "autofesa",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "Suzuki Vitara 1.5 DUALJET HYBRID AUTO STRONG 116CV 5P # IVA DEDUCIBLE,PARKTRONIC,CAMARA TRASERA",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "1.5 DUALJET HYBRID AUTO STRONG 116CV 5P # IVA DEDUCIBLE,PARKTRONIC,CAMARA TRASERA",
-"anio": 2024,
-"km": 78144,
-"precio": 18950.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": "automatico",
-"etiqueta": "ECO",
-"foto_url": "https://www.autofesa.com/media/cache/md/b68d1c97-77c2-4a12-99ba-7f24239d23a7/1CfK3bP2sJcAoJEkRFbDsL.webp",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.88,
-"pros": [
-"precio un 10% por debajo de la mediana del mercado (21.140 €)",
-"kilometraje dentro del rango recomendado",
-"año 2024, dentro del rango preferente (2022+)",
-"cambio automatico, el recomendado para este modelo",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [],
-"explicacion": "Puntuación 3.9/5. A favor: Precio un 10% por debajo de la mediana del mercado (21.140 €); Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+); Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 289.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 269.52,
-"entrada": 3790.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 287.92,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T08:28:36.243370+00:00"
-},
-{
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3557873",
 "web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
@@ -1167,7 +1169,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.85,
+"puntuacion": 3.83,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2021+)",
@@ -1176,7 +1178,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 3.9/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 280.77,
@@ -1222,7 +1224,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.79,
+"puntuacion": 3.77,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
@@ -1260,6 +1262,62 @@
 "primer_visto": "2026-11-07T11:49:38.250798+00:00"
 },
 {
+"url": "https://www.ocasionplus.com/coches-segunda-mano/suzuki-vitara-14-t-mild-hybrid-glx-con-41722km-2023-avysnqac",
+"web_id": "ocasionplus",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "Suzuki Vitara 1.4 T Mild Hybrid GLX (129 CV)",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "1.4 T Mild Hybrid GLX (129 CV)",
+"anio": 2023,
+"km": 41722,
+"precio": 20750.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": "manual",
+"etiqueta": "ECO",
+"foto_url": "https://img.ocasionplus.com/kV60WhxOdUoCIHIST-Soq6hpKH2BXvx3y6wxuGz4bpw/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvMzQvOTkvMjgvNi94MDEuanBnPzE1MjkxNTM2NTUx",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Alcalá de Henares",
+"puntuacion": 3.76,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2023, dentro del rango preferente (2022+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 294.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 295.12,
+"entrada": 4150.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 315.27,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:28:36.279241+00:00"
+},
+{
 "url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-29745km-2024-wzcj9qaj",
 "web_id": "ocasionplus",
 "modelo_id": "skoda_kamiq",
@@ -1277,7 +1335,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Torrejón de Ardoz 194",
-"puntuacion": 3.77,
+"puntuacion": 3.75,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -1333,7 +1391,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Torrejón de Ardoz 194",
-"puntuacion": 3.77,
+"puntuacion": 3.75,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -1389,7 +1447,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
-"puntuacion": 3.77,
+"puntuacion": 3.75,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -1445,7 +1503,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Alcalá de Henares - Vía Complutense",
-"puntuacion": 3.77,
+"puntuacion": 3.75,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2021+)",
@@ -1484,49 +1542,49 @@
 "primer_visto": "2026-11-09T08:29:41.792053+00:00"
 },
 {
-"url": "https://www.ocasionplus.com/coches-segunda-mano/suzuki-vitara-14-t-mild-hybrid-glx-con-41722km-2023-avysnqac",
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kamiq-10-tsi-ambition-con-30041km-2024-wzchhqaz",
 "web_id": "ocasionplus",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "Suzuki Vitara 1.4 T Mild Hybrid GLX (129 CV)",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "1.4 T Mild Hybrid GLX (129 CV)",
-"anio": 2023,
-"km": 41722,
-"precio": 20750.0,
-"combustible": "hibrido_no_enchufable",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition (110 CV)",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition (110 CV)",
+"anio": 2024,
+"km": 30041,
+"precio": 16790.0,
+"combustible": "gasolina",
 "cambio": "manual",
-"etiqueta": "ECO",
-"foto_url": "https://img.ocasionplus.com/kV60WhxOdUoCIHIST-Soq6hpKH2BXvx3y6wxuGz4bpw/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvMzQvOTkvMjgvNi94MDEuanBnPzE1MjkxNTM2NTUx",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/X7aMHaSu_Us68E3oVSLTKetiXWZh6ygj5Yd5lONAMiA/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvNDMvNzUvMDcvNC94MDEuanBnPzE1MzE2MjEwOTY1",
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
-"ubicacion": "Madrid - Alcalá de Henares",
-"puntuacion": 3.74,
+"ubicacion": "Madrid - Torrejón de Ardoz",
+"puntuacion": 3.75,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2023, dentro del rango preferente (2022+)",
+"año 2024, dentro del rango preferente (2021+)",
 "cambio manual, el recomendado para este modelo",
 "vendedor profesional"
 ],
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.7/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.8/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 294.0,
+"cuota_mensual": 240.0,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 295.12,
-"entrada": 4150.0,
+"cuota_mensual": 238.8,
+"entrada": 3358.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 315.27,
+"cuota_mensual": 255.1,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -1534,10 +1592,10 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": false,
+"nuevo_hoy": true,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-09T08:28:36.279241+00:00"
+"primer_visto": "2026-11-11T18:54:03.594521+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-suzuki-vitara-vitara-1-4t-mild-hybrid-s1-110-suv-y-4x4-manual-2025-147219",
@@ -1557,7 +1615,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.71,
+"puntuacion": 3.73,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)",
@@ -1668,7 +1726,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.68,
+"puntuacion": 3.67,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
@@ -1724,7 +1782,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.62,
+"puntuacion": 3.6,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
@@ -1763,6 +1821,62 @@
 "primer_visto": "2026-11-09T21:07:38.180476+00:00"
 },
 {
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-suzuki-vitara-vitara-1-4t-glx-4wd-mild-hybrid-129-suv-y-4x4-manual-2022-143879",
+"web_id": "clicars",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "Suzuki Vitara 1.4T GLX 4WD Mild Hybrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "1.4T GLX 4WD Mild Hybrid",
+"anio": 2022,
+"km": 91000,
+"precio": 16990.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.56,
+"pros": [
+"precio un 21% por debajo de la mediana del mercado (21.490 €)",
+"año 2022, dentro del rango preferente (2022+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.6/5. A favor: Precio un 21% por debajo de la mediana del mercado (21.490 €); Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 239.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 241.64,
+"entrada": 3398.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 258.14,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.627538+00:00"
+},
+{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-70kw-95-suv-y-4x4-manual-2025-145342",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -1780,7 +1894,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.55,
+"puntuacion": 3.53,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2026, dentro del rango preferente (2021+)",
@@ -1819,118 +1933,6 @@
 "primer_visto": "2026-11-07T11:49:38.368537+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-suzuki-vitara-vitara-1-4t-glx-4wd-mild-hybrid-129-suv-y-4x4-manual-2022-143879",
-"web_id": "clicars",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "Suzuki Vitara 1.4T GLX 4WD Mild Hybrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "1.4T GLX 4WD Mild Hybrid",
-"anio": 2022,
-"km": 91000,
-"precio": 16990.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": "manual",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.54,
-"pros": [
-"precio un 20% por debajo de la mediana del mercado (21.140 €)",
-"año 2022, dentro del rango preferente (2022+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.5/5. A favor: Precio un 20% por debajo de la mediana del mercado (21.140 €); Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 239.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 241.64,
-"entrada": 3398.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 258.14,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.627538+00:00"
-},
-{
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3535898",
-"web_id": "ftomeocasion",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.5 tsi 150 cv dsg style",
-"anio": 2023,
-"km": 50153,
-"precio": 21600.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3535898/20030bd7-f899-0d8d-b531-5fbc95d2b56a/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.52,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2023, dentro del rango preferente (2021+)",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [
-"precio un 23% por encima de la mediana del mercado (17.490 €)"
-],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 23% por encima de la mediana del mercado (17.490 €).",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 307.85,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 307.21,
-"entrada": 4320.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 328.18,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.259752+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=Sq1gOQ_gpnHp",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -1948,7 +1950,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.48,
+"puntuacion": 3.5,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2022+)"
@@ -1985,47 +1987,49 @@
 "primer_visto": "2026-11-07T11:48:33.558636+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=eiiY-8z90ZEF",
-"web_id": "coches_com",
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3535898",
+"web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.0 TSI Ambition 81kW 110 en Madrid",
+"titulo": "Skoda Kamiq 1.5 tsi 150 cv dsg style",
 "marca": "Skoda",
 "modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 42449,
-"precio": 16250.0,
+"version": "1.5 tsi 150 cv dsg style",
+"anio": 2023,
+"km": 50153,
+"precio": 21600.0,
 "combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/6e89d14a-1d77-4911-ade8-d0f986b8124d/4ac036ea-5065-46ef-8b03-842bbf3a68b1.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.48,
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3535898/20030bd7-f899-0d8d-b531-5fbc95d2b56a/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.5,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2022, dentro del rango preferente (2021+)"
+"año 2023, dentro del rango preferente (2021+)",
+"garantía de 12 meses",
+"vendedor profesional"
 ],
 "contras": [
-"sin garantía especificada en el anuncio"
+"precio un 25% por encima de la mediana del mercado (17.220 €)"
 ],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 25% por encima de la mediana del mercado (17.220 €).",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 14773.0,
+"cuota_mensual": 307.85,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 231.12,
-"entrada": 3250.0,
+"cuota_mensual": 307.21,
+"entrada": 4320.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 246.9,
+"cuota_mensual": 328.18,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2036,7 +2040,7 @@
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.285404+00:00"
+"primer_visto": "2026-11-07T11:49:38.259752+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=QXkJXJfsoAqw",
@@ -2056,7 +2060,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.46,
+"puntuacion": 3.48,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2022+)"
@@ -2110,7 +2114,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.46,
+"puntuacion": 3.48,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2024, dentro del rango preferente (2022+)"
@@ -2147,103 +2151,47 @@
 "primer_visto": "2026-11-07T11:48:33.553683+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=9rPeW_InRG9L",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=eiiY-8z90ZEF",
 "web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T GLE Mild Hybrid 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.0 TSI Ambition 81kW 110 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
 "version": "",
-"anio": 2023,
-"km": 51199,
-"precio": 20299.0,
-"combustible": "hibrido_no_enchufable",
+"anio": 2022,
+"km": 42449,
+"precio": 16250.0,
+"combustible": "gasolina",
 "cambio": null,
 "etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/556c9be7-1400-4c0d-8a2a-7be578f97d81/6e7a8608-95d9-4be1-bb5d-8d3c27b94b1f.jpg",
+"foto_url": "https://images.coches.com/_ccom_/6e89d14a-1d77-4911-ade8-d0f986b8124d/4ac036ea-5065-46ef-8b03-842bbf3a68b1.jpg",
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.45,
+"puntuacion": 3.47,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2023, dentro del rango preferente (2022+)"
+"año 2022, dentro del rango preferente (2021+)"
 ],
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 288.71,
-"entrada": 4059.8,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 308.42,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T20:38:33.083798+00:00"
-},
-{
-"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3643101",
-"web_id": "ftomeocasion",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq sport 1.5 tsi 150 cv dsg",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "sport 1.5 tsi 150 cv dsg",
-"anio": 2024,
-"km": 34011,
-"precio": 22750.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": "C",
-"foto_url": "https://fotos.inventario.pro/coche/2929/3643101/5b9680bd-819e-5eca-45db-11ca305b97e7/40543ad341c7ad9b85737cf1254c2d0f.jpg",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.44,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2021+)",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [
-"precio un 30% por encima de la mediana del mercado (17.490 €)"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 30% por encima de la mediana del mercado (17.490 €).",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 324.24,
+"cuota_mensual": 14773.0,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 323.57,
-"entrada": 4550.0,
+"cuota_mensual": 231.12,
+"entrada": 3250.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 345.66,
+"cuota_mensual": 246.9,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2254,7 +2202,61 @@
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.272716+00:00"
+"primer_visto": "2026-11-07T11:49:38.285404+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=oTyvStsH8vQc",
+"web_id": "coches_com",
+"modelo_id": "mercedes_gla_h247_alternativas",
+"titulo": "MERCEDES Clase GLA GLA 200d 8G DCT 150 en Madrid",
+"marca": "Mercedes",
+"modelo": "GLA",
+"version": "",
+"anio": 2021,
+"km": 58461,
+"precio": 28199.0,
+"combustible": "diesel",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/4270fe6f-82f6-4ebb-b5b7-968dfb60a9db/cef5bb6f-fb56-4982-93f9-c111284211c9.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.44,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2021, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2021, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 25635.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 401.07,
+"entrada": 5639.8,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 428.45,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-10T11:34:38.809876+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=3iWMZFPhzW1f",
@@ -2274,7 +2276,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.42,
+"puntuacion": 3.43,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2311,61 +2313,6 @@
 "primer_visto": "2026-11-07T11:48:33.539963+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-emotion-81kw.htm?id=OvOlaYg9FK7D",
-"web_id": "coches_com",
-"modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.0 TSI Emotion 81kW 110 en Madrid",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 70951,
-"precio": 14980.0,
-"combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/00186a6c-84de-424f-9441-c025e96d10d6/e2ffc50c-ccb6-4723-98c1-33d92b83b29e.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.42,
-"pros": [
-"precio un 14% por debajo de la mediana del mercado (17.490 €)",
-"kilometraje dentro del rango recomendado",
-"año 2022, dentro del rango preferente (2021+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Precio un 14% por debajo de la mediana del mercado (17.490 €); Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 13316.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 213.06,
-"entrada": 2996.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 227.6,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.277058+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=Ibqb2F5jtQNi",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -2383,7 +2330,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.41,
+"puntuacion": 3.43,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2420,47 +2367,49 @@
 "primer_visto": "2026-11-07T11:48:33.544653+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=oTyvStsH8vQc",
-"web_id": "coches_com",
-"modelo_id": "mercedes_gla_h247_alternativas",
-"titulo": "MERCEDES Clase GLA GLA 200d 8G DCT 150 en Madrid",
-"marca": "Mercedes",
-"modelo": "GLA",
-"version": "",
-"anio": 2021,
-"km": 58461,
-"precio": 28199.0,
-"combustible": "diesel",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/4270fe6f-82f6-4ebb-b5b7-968dfb60a9db/cef5bb6f-fb56-4982-93f9-c111284211c9.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.4,
+"url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3643101",
+"web_id": "ftomeocasion",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq sport 1.5 tsi 150 cv dsg",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "sport 1.5 tsi 150 cv dsg",
+"anio": 2024,
+"km": 34011,
+"precio": 22750.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": "C",
+"foto_url": "https://fotos.inventario.pro/coche/2929/3643101/5b9680bd-819e-5eca-45db-11ca305b97e7/40543ad341c7ad9b85737cf1254c2d0f.jpg",
+"vendedor_tipo": "profesional",
+"garantia_meses": 12,
+"ubicacion": null,
+"puntuacion": 3.42,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2021, dentro del rango preferente (2021+)"
+"año 2024, dentro del rango preferente (2021+)",
+"garantía de 12 meses",
+"vendedor profesional"
 ],
 "contras": [
-"sin garantía especificada en el anuncio"
+"precio un 32% por encima de la mediana del mercado (17.220 €)"
 ],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2021, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2021+); Garantía de 12 meses; Vendedor profesional. En contra: Precio un 32% por encima de la mediana del mercado (17.220 €).",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 25635.0,
+"cuota_mensual": 324.24,
 "meses": 72,
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 401.07,
-"entrada": 5639.8,
+"cuota_mensual": 323.57,
+"entrada": 4550.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 428.45,
+"cuota_mensual": 345.66,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2468,13 +2417,68 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": true,
+"nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-10T11:34:38.809876+00:00"
+"primer_visto": "2026-11-07T11:49:38.272716+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=gFbuutMS1SzB",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-emotion-81kw.htm?id=OvOlaYg9FK7D",
+"web_id": "coches_com",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.0 TSI Emotion 81kW 110 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "",
+"anio": 2022,
+"km": 70951,
+"precio": 14980.0,
+"combustible": "gasolina",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/00186a6c-84de-424f-9441-c025e96d10d6/e2ffc50c-ccb6-4723-98c1-33d92b83b29e.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.41,
+"pros": [
+"precio un 13% por debajo de la mediana del mercado (17.220 €)",
+"kilometraje dentro del rango recomendado",
+"año 2022, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Precio un 13% por debajo de la mediana del mercado (17.220 €); Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 13316.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 213.06,
+"entrada": 2996.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 227.6,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.277058+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=6eqsbBnyCXaz",
 "web_id": "coches_com",
 "modelo_id": "mercedes_gla_h247_alternativas",
 "titulo": "MERCEDES Clase GLA GLA 200d 8G DCT 150 en Madrid",
@@ -2482,16 +2486,16 @@
 "modelo": "GLA",
 "version": "",
 "anio": 2022,
-"km": 51774,
-"precio": 29900.0,
+"km": 40081,
+"precio": 28890.0,
 "combustible": "diesel",
 "cambio": null,
 "etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/0c85885a-ae47-420a-859a-992154332999/005a7ad7-dc3d-4dae-90bd-8a5c8fe96ed2.jpg",
+"foto_url": "https://images.coches.com/_ccom_/acffd2ed-32fc-4328-8ff5-ec5f1518c666/500662fc-0aa2-4403-a925-7a4fb811ba82.jpg",
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.4,
+"puntuacion": 3.41,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2021+)"
@@ -2502,19 +2506,19 @@
 "explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": null,
+"cuota_mensual": 26263.0,
 "meses": 72,
-"nota": "No especificada en el anuncio"
+"nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 425.26,
-"entrada": 5980.0,
+"cuota_mensual": 410.89,
+"entrada": 5778.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 454.29,
+"cuota_mensual": 438.95,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2525,7 +2529,7 @@
 "nuevo_hoy": true,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-10T11:34:38.810829+00:00"
+"primer_visto": "2026-11-11T18:54:24.015723+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=YoJph7-TxXWl",
@@ -2545,7 +2549,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.37,
+"puntuacion": 3.39,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2599,7 +2603,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.36,
+"puntuacion": 3.38,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2653,7 +2657,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.36,
+"puntuacion": 3.38,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2707,7 +2711,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.36,
+"puntuacion": 3.38,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2761,7 +2765,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.36,
+"puntuacion": 3.38,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2798,48 +2802,47 @@
 "primer_visto": "2026-11-07T11:48:33.605412+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-5-tsi-style-dsg-150-suv-y-4x4-automatico-2022-144725",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.5 TSI Style DSG",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.5 TSI Style DSG",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=gFbuutMS1SzB",
+"web_id": "coches_com",
+"modelo_id": "mercedes_gla_h247_alternativas",
+"titulo": "MERCEDES Clase GLA GLA 200d 8G DCT 150 en Madrid",
+"marca": "Mercedes",
+"modelo": "GLA",
+"version": "",
 "anio": 2022,
-"km": 53886,
-"precio": 19990.0,
-"combustible": "gasolina",
-"cambio": "automatico",
+"km": 51774,
+"precio": 29900.0,
+"combustible": "diesel",
+"cambio": null,
 "etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
+"foto_url": "https://images.coches.com/_ccom_/0c85885a-ae47-420a-859a-992154332999/005a7ad7-dc3d-4dae-90bd-8a5c8fe96ed2.jpg",
+"vendedor_tipo": null,
 "garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.35,
+"ubicacion": "Madrid",
+"puntuacion": 3.37,
 "pros": [
 "kilometraje muy bajo para el modelo",
-"año 2022, dentro del rango preferente (2021+)",
-"vendedor profesional"
+"año 2022, dentro del rango preferente (2021+)"
 ],
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
-"cuota_mensual": 280.0,
+"cuota_mensual": null,
 "meses": 72,
-"nota": "Tal como la indica el anuncio"
+"nota": "No especificada en el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 284.31,
-"entrada": 3998.0,
+"cuota_mensual": 425.26,
+"entrada": 5980.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 303.72,
+"cuota_mensual": 454.29,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2847,10 +2850,10 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": true,
+"nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-10T15:12:11.321467+00:00"
+"primer_visto": "2026-11-10T11:34:38.810829+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=mUVowxwJW1gY",
@@ -2870,7 +2873,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.34,
+"puntuacion": 3.36,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2878,7 +2881,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2924,7 +2927,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.34,
+"puntuacion": 3.36,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2932,7 +2935,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2978,7 +2981,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.34,
+"puntuacion": 3.36,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -2986,7 +2989,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3032,7 +3035,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.33,
+"puntuacion": 3.35,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -3040,7 +3043,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3086,7 +3089,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.33,
+"puntuacion": 3.35,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -3094,7 +3097,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3178,6 +3181,169 @@
 "primer_visto": "2026-11-09T21:00:55.768724+00:00"
 },
 {
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-5-tsi-style-dsg-150-suv-y-4x4-automatico-2022-144725",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.5 TSI Style DSG",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.5 TSI Style DSG",
+"anio": 2022,
+"km": 53886,
+"precio": 19990.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.33,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2022, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 280.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 284.31,
+"entrada": 3998.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 303.72,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-10T15:12:11.321467+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2-4wd.htm?id=whonSp5nFgdK",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S2 4WD 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 29494,
+"precio": 22890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/2ada7094-b7cb-41b2-b220-ac97a2eb3e08/e2faaff5-9191-40b3-910d-62179eedd447.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.32,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 325.56,
+"entrada": 4578.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 347.78,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.609855+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2-4wd.htm?id=bYSh9eOr9qbc",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S2 4WD 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 30450,
+"precio": 22890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/a69e18f7-aca3-41ab-b884-11f1349218d4/5e6b95da-de56-45a2-b8bd-99ce489f05f5.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.32,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 325.56,
+"entrada": 4578.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 347.78,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T08:18:53.469199+00:00"
+},
+{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-70kw-95-suv-y-4x4-manual-2021-143435",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -3195,9 +3361,9 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.32,
+"puntuacion": 3.31,
 "pros": [
-"precio un 17% por debajo de la mediana del mercado (17.490 €)",
+"precio un 16% por debajo de la mediana del mercado (17.220 €)",
 "año 2022, dentro del rango preferente (2021+)",
 "cambio manual, el recomendado para este modelo",
 "vendedor profesional"
@@ -3206,7 +3372,7 @@
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 17% por debajo de la mediana del mercado (17.490 €); Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 16% por debajo de la mediana del mercado (17.220 €); Año 2022, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 205.0,
@@ -3235,6 +3401,170 @@
 "primer_visto": "2026-11-07T11:49:38.377293+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=EEP6KF_xPS_A",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI S Cross 1.4L Mild Hybrid S3 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "S-Cross",
+"version": "",
+"anio": 2023,
+"km": 86150,
+"precio": 17099.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/64990fdd-35fe-4fbb-9144-e67b416fe7a9/092c0a2e-2380-4449-8720-204813c26ca2.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.3,
+"pros": [
+"precio un 20% por debajo de la mediana del mercado (21.490 €)",
+"año 2023, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 20% por debajo de la mediana del mercado (21.490 €); Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 243.19,
+"entrada": 3419.8,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 259.8,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.505132+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition",
+"anio": 2023,
+"km": 95644,
+"precio": 16490.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.3,
+"pros": [
+"año 2023, dentro del rango preferente (2021+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 232.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 234.53,
+"entrada": 3298.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 250.54,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.359532+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-144113",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Ambition DSG",
+"anio": 2021,
+"km": 85725,
+"precio": 15490.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.3,
+"pros": [
+"precio un 10% por debajo de la mediana del mercado (17.220 €)",
+"año 2021, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 10% por debajo de la mediana del mercado (17.220 €); Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 232.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 220.31,
+"entrada": 3098.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 235.35,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.383027+00:00"
+},
+{
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3537897",
 "web_id": "ftomeocasion",
 "modelo_id": "skoda_kamiq",
@@ -3252,7 +3582,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.31,
+"puntuacion": 3.29,
 "pros": [
 "año 2022, dentro del rango preferente (2021+)",
 "cambio manual, el recomendado para este modelo",
@@ -3291,61 +3621,6 @@
 "primer_visto": "2026-11-07T11:49:38.246218+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition",
-"anio": 2023,
-"km": 95644,
-"precio": 16490.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.31,
-"pros": [
-"año 2023, dentro del rango preferente (2021+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Año 2023, dentro del rango preferente (2021+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 232.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 234.53,
-"entrada": 3298.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 250.54,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.359532+00:00"
-},
-{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-144969",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -3363,7 +3638,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.31,
+"puntuacion": 3.29,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2024, dentro del rango preferente (2021+)",
@@ -3399,169 +3674,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.372923+00:00"
-},
-{
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-144113",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition DSG",
-"anio": 2021,
-"km": 85725,
-"precio": 15490.0,
-"combustible": "gasolina",
-"cambio": "automatico",
-"etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": null,
-"puntuacion": 3.31,
-"pros": [
-"precio un 11% por debajo de la mediana del mercado (17.490 €)",
-"año 2021, dentro del rango preferente (2021+)",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 11% por debajo de la mediana del mercado (17.490 €); Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 232.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 220.31,
-"entrada": 3098.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 235.35,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.383027+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2-4wd.htm?id=whonSp5nFgdK",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S2 4WD 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 29494,
-"precio": 22890.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/2ada7094-b7cb-41b2-b220-ac97a2eb3e08/e2faaff5-9191-40b3-910d-62179eedd447.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.3,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 325.56,
-"entrada": 4578.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 347.78,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.609855+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=EEP6KF_xPS_A",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI S Cross 1.4L Mild Hybrid S3 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "S-Cross",
-"version": "",
-"anio": 2023,
-"km": 86150,
-"precio": 17099.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/64990fdd-35fe-4fbb-9144-e67b416fe7a9/092c0a2e-2380-4449-8720-204813c26ca2.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.28,
-"pros": [
-"precio un 19% por debajo de la mediana del mercado (21.140 €)",
-"año 2023, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 19% por debajo de la mediana del mercado (21.140 €); Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 243.19,
-"entrada": 3419.8,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 259.8,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.505132+00:00"
 },
 {
 "url": "https://www.autofesa.com/coches-de-ocasion/skoda/kodiaq/1-5-tsi-150cv-auto-7-plazas-5p-techo-panoramico-ele-navi-parktornic-camara-trasera",
@@ -3634,7 +3746,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.25,
+"puntuacion": 3.23,
 "pros": [
 "año 2022, dentro del rango preferente (2021+)",
 "garantía de 12 meses",
@@ -3679,7 +3791,7 @@
 "version": "1.5 TSI Style DSG",
 "anio": 2023,
 "km": 22045,
-"precio": 21990.0,
+"precio": 21490.0,
 "combustible": "gasolina",
 "cambio": "automatico",
 "etiqueta": null,
@@ -3687,17 +3799,17 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.21,
+"puntuacion": 3.22,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)",
 "vendedor profesional"
 ],
 "contras": [
-"precio un 26% por encima de la mediana del mercado (17.490 €)",
+"precio un 25% por encima de la mediana del mercado (17.220 €)",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Precio un 26% por encima de la mediana del mercado (17.490 €); Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+); Vendedor profesional. En contra: Precio un 25% por encima de la mediana del mercado (17.220 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 307.0,
@@ -3705,14 +3817,14 @@
 "nota": "Tal como la indica el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 312.76,
-"entrada": 4398.0,
+"cuota_mensual": 305.65,
+"entrada": 4298.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 334.11,
+"cuota_mensual": 326.51,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -3721,8 +3833,8 @@
 }
 },
 "nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
+"bajada_precio": true,
+"precio_anterior": 21990.0,
 "primer_visto": "2026-11-07T11:49:38.364039+00:00"
 },
 {
@@ -3743,7 +3855,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.2,
+"puntuacion": 3.18,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2023, dentro del rango preferente (2021+)",
@@ -3798,7 +3910,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.19,
+"puntuacion": 3.17,
 "pros": [
 "año 2021, dentro del rango preferente (2021+)",
 "vendedor profesional"
@@ -3852,16 +3964,16 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.16,
+"puntuacion": 3.14,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2021+)"
 ],
 "contras": [
-"precio un 20% por encima de la mediana del mercado (17.490 €)",
+"precio un 22% por encima de la mediana del mercado (17.220 €)",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.2/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+). En contra: Precio un 20% por encima de la mediana del mercado (17.490 €); Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.1/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2021+). En contra: Precio un 22% por encima de la mediana del mercado (17.220 €); Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 19082.0,
@@ -3890,60 +4002,6 @@
 "primer_visto": "2026-11-07T11:49:38.337096+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-150-15-tsi-style-dsg.htm?id=U8YMwJwpeDEq",
-"web_id": "coches_com",
-"modelo_id": "skoda_kamiq",
-"titulo": "SKODA Kamiq 1.5 TSI Style DSG 150 en Madrid",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "",
-"anio": 2022,
-"km": 79912,
-"precio": 18490.0,
-"combustible": "gasolina",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/eb6bf3ed-e6c6-4fe8-90da-d863ea3c3a77/04dd5cef-2454-4866-b25f-8d7daf68b0f6.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.07,
-"pros": [
-"kilometraje dentro del rango recomendado",
-"año 2022, dentro del rango preferente (2021+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.1/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 262.98,
-"entrada": 3698.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 280.93,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:49:38.327627+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s1.htm?id=C6I77qR4QjkH",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -3961,16 +4019,16 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.05,
+"puntuacion": 3.06,
 "pros": [
-"precio un 20% por debajo de la mediana del mercado (21.140 €)",
+"precio un 21% por debajo de la mediana del mercado (21.490 €)",
 "año 2022, dentro del rango preferente (2022+)"
 ],
 "contras": [
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.0/5. A favor: Precio un 20% por debajo de la mediana del mercado (21.140 €); Año 2022, dentro del rango preferente (2022+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.1/5. A favor: Precio un 21% por debajo de la mediana del mercado (21.490 €); Año 2022, dentro del rango preferente (2022+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3999,6 +4057,60 @@
 "primer_visto": "2026-11-07T11:48:33.522429+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-150-15-tsi-style-dsg.htm?id=U8YMwJwpeDEq",
+"web_id": "coches_com",
+"modelo_id": "skoda_kamiq",
+"titulo": "SKODA Kamiq 1.5 TSI Style DSG 150 en Madrid",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "",
+"anio": 2022,
+"km": 79912,
+"precio": 18490.0,
+"combustible": "gasolina",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/eb6bf3ed-e6c6-4fe8-90da-d863ea3c3a77/04dd5cef-2454-4866-b25f-8d7daf68b0f6.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.05,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2022, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.0/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 262.98,
+"entrada": 3698.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 280.93,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:49:38.327627+00:00"
+},
+{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-145649",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -4016,7 +4128,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 2.99,
+"puntuacion": 2.97,
 "pros": [
 "año 2022, dentro del rango preferente (2021+)",
 "vendedor profesional"
@@ -4048,10 +4160,63 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": true,
+"nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-10T11:34:04.895909+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=Qwi-g2nolNU7",
+"web_id": "coches_com",
+"modelo_id": "mercedes_gla_h247_alternativas",
+"titulo": "MERCEDES Clase GLA GLA 200d 8G DCT 150 en Madrid",
+"marca": "Mercedes",
+"modelo": "GLA",
+"version": "",
+"anio": 2023,
+"km": 92142,
+"precio": 29499.0,
+"combustible": "diesel",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/83c7b7bf-7060-4254-a2fd-cf53b524cdf8/3bdb4c12-a388-4386-8d31-6d7531e6a93b.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 2.96,
+"pros": [
+"año 2023, dentro del rango preferente (2021+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.0/5. A favor: Año 2023, dentro del rango preferente (2021+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 26817.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 419.56,
+"entrada": 5899.8,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 448.2,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": true,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-11T18:54:24.025245+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=8bY7bLp4wx49",
@@ -4071,7 +4236,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 2.91,
+"puntuacion": 2.89,
 "pros": [
 "año 2022, dentro del rango preferente (2021+)"
 ],
