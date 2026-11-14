@@ -1,6 +1,6 @@
 {
-"generado": "2026-11-13T14:53:47.232753+00:00",
-"fecha": "2026-11-13",
+"generado": "2026-11-14T13:47:56.546174+00:00",
+"fecha": "2026-11-14",
 "modelos": [
 {
 "id": "suzuki_scross_vitara",
@@ -99,8 +99,8 @@
 "https://images.coches.com/_ccom_/1fc8c212-2fc8-4fd6-8179-22867f8828a1/23ec1302-6233-4ef9-ae0c-00f2fa359c47.jpg",
 "https://images.coches.com/_ccom_/09d6c443-9472-4d24-9a68-d2e345f435e6/f8142179-f1fd-4f8b-931f-884898a28641.jpg",
 "https://images.coches.com/_ccom_/d02fb6cf-48f3-4e65-9511-3e1dfcf140bc/f7871777-19e3-4ad0-b994-e73de268747f.jpg",
-"https://images.coches.com/_ccom_/556c9be7-1400-4c0d-8a2a-7be578f97d81/6e7a8608-95d9-4be1-bb5d-8d3c27b94b1f.jpg",
-"https://images.coches.com/_ccom_/34c6b4d7-6aa2-4ac5-b304-07e36c15d1a9/bc705e48-4a02-44af-a833-88f642bc7844.jpg"
+"https://images.coches.com/_ccom_/34c6b4d7-6aa2-4ac5-b304-07e36c15d1a9/bc705e48-4a02-44af-a833-88f642bc7844.jpg",
+"https://images.coches.com/_ccom_/556c9be7-1400-4c0d-8a2a-7be578f97d81/6e7a8608-95d9-4be1-bb5d-8d3c27b94b1f.jpg"
 ],
 "foto_atribucion": null,
 "comparacion_titulo": null,
@@ -782,9 +782,9 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 4.2,
+"puntuacion": 4.18,
 "pros": [
-"precio un 16% por debajo de la mediana del mercado (20.724 €)",
+"precio un 15% por debajo de la mediana del mercado (20.299 €)",
 "kilometraje muy bajo para el modelo",
 "año 2022, dentro del rango preferente (2022+)",
 "cambio manual, el recomendado para este modelo",
@@ -792,7 +792,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 4.2/5. A favor: Precio un 16% por debajo de la mediana del mercado (20.724 €); Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 4.2/5. A favor: Precio un 15% por debajo de la mediana del mercado (20.299 €); Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 264.0,
@@ -1113,9 +1113,9 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.93,
+"puntuacion": 3.9,
 "pros": [
-"precio un 14% por debajo de la mediana del mercado (20.724 €)",
+"precio un 12% por debajo de la mediana del mercado (20.299 €)",
 "kilometraje dentro del rango recomendado",
 "año 2024, dentro del rango preferente (2022+)",
 "cambio automatico, el recomendado para este modelo",
@@ -1123,7 +1123,7 @@
 "vendedor profesional"
 ],
 "contras": [],
-"explicacion": "Puntuación 3.9/5. A favor: Precio un 14% por debajo de la mediana del mercado (20.724 €); Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+); Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
+"explicacion": "Puntuación 3.9/5. A favor: Precio un 12% por debajo de la mediana del mercado (20.299 €); Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+); Cambio automatico, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 289.0,
@@ -1616,7 +1616,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Alcalá de Henares",
-"puntuacion": 3.72,
+"puntuacion": 3.69,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2022+)",
@@ -1840,9 +1840,9 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": null,
-"puntuacion": 3.52,
+"puntuacion": 3.5,
 "pros": [
-"precio un 18% por debajo de la mediana del mercado (20.724 €)",
+"precio un 16% por debajo de la mediana del mercado (20.299 €)",
 "año 2022, dentro del rango preferente (2022+)",
 "cambio manual, el recomendado para este modelo",
 "vendedor profesional"
@@ -1850,7 +1850,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.5/5. A favor: Precio un 18% por debajo de la mediana del mercado (20.724 €); Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.5/5. A favor: Precio un 16% por debajo de la mediana del mercado (20.299 €); Año 2022, dentro del rango preferente (2022+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 239.0,
@@ -1935,60 +1935,6 @@
 "primer_visto": "2026-11-07T11:49:38.259752+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=Sq1gOQ_gpnHp",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T GLE Mild Hybrid 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2024,
-"km": 55134,
-"precio": 19690.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/1fc8c212-2fc8-4fd6-8179-22867f8828a1/23ec1302-6233-4ef9-ae0c-00f2fa359c47.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.46,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2024, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.5/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 280.05,
-"entrada": 3938.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 299.16,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.558636+00:00"
-},
-{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-ambition-81kw.htm?id=eiiY-8z90ZEF",
 "web_id": "coches_com",
 "modelo_id": "skoda_kamiq",
@@ -2043,61 +1989,7 @@
 "primer_visto": "2026-11-07T11:49:38.285404+00:00"
 },
 {
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=QXkJXJfsoAqw",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI S Cross 1.4L Mild Hybrid S3 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "S-Cross",
-"version": "",
-"anio": 2022,
-"km": 30220,
-"precio": 19999.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/09d6c443-9472-4d24-9a68-d2e345f435e6/f8142179-f1fd-4f8b-931f-884898a28641.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.44,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2022, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 284.44,
-"entrada": 3999.8,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 303.86,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.509626+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=2iTyH_txSFAC",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=Sq1gOQ_gpnHp",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
 "titulo": "SUZUKI Vitara 1.4T GLE Mild Hybrid 129 en Madrid",
@@ -2105,12 +1997,12 @@
 "modelo": "Vitara",
 "version": "",
 "anio": 2024,
-"km": 47499,
-"precio": 19990.0,
+"km": 55134,
+"precio": 19690.0,
 "combustible": "hibrido_no_enchufable",
 "cambio": null,
 "etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/d02fb6cf-48f3-4e65-9511-3e1dfcf140bc/f7871777-19e3-4ad0-b994-e73de268747f.jpg",
+"foto_url": "https://images.coches.com/_ccom_/1fc8c212-2fc8-4fd6-8179-22867f8828a1/23ec1302-6233-4ef9-ae0c-00f2fa359c47.jpg",
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
@@ -2130,14 +2022,14 @@
 "nota": "No especificada en el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 284.31,
-"entrada": 3998.0,
+"cuota_mensual": 280.05,
+"entrada": 3938.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 303.72,
+"cuota_mensual": 299.16,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -2148,7 +2040,7 @@
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.553683+00:00"
+"primer_visto": "2026-11-07T11:48:33.558636+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=oTyvStsH8vQc",
@@ -2205,6 +2097,168 @@
 "primer_visto": "2026-11-10T11:34:38.809876+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s3.htm?id=QXkJXJfsoAqw",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI S Cross 1.4L Mild Hybrid S3 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "S-Cross",
+"version": "",
+"anio": 2022,
+"km": 30220,
+"precio": 19999.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/09d6c443-9472-4d24-9a68-d2e345f435e6/f8142179-f1fd-4f8b-931f-884898a28641.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.42,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2022, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2022, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 284.44,
+"entrada": 3999.8,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 303.86,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.509626+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=2iTyH_txSFAC",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T GLE Mild Hybrid 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2024,
+"km": 47499,
+"precio": 19990.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/d02fb6cf-48f3-4e65-9511-3e1dfcf140bc/f7871777-19e3-4ad0-b994-e73de268747f.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.42,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2024, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2024, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 284.31,
+"entrada": 3998.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 303.72,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.553683+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-glx-mild-hybrid.htm?id=yuIH2ZogLmfL",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T GLX Mild Hybrid 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2023,
+"km": 45433,
+"precio": 20099.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/34c6b4d7-6aa2-4ac5-b304-07e36c15d1a9/bc705e48-4a02-44af-a833-88f642bc7844.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.41,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2023, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 285.86,
+"entrada": 4019.8,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 305.38,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": true,
+"precio_anterior": 20699.0,
+"primer_visto": "2026-11-12T15:33:37.216304+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-gle-mild-hybrid.htm?id=9rPeW_InRG9L",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -2222,7 +2276,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.42,
+"puntuacion": 3.4,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2023, dentro del rango preferente (2022+)"
@@ -2311,114 +2365,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-11T18:54:24.015723+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-glx-mild-hybrid.htm?id=yuIH2ZogLmfL",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T GLX Mild Hybrid 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2023,
-"km": 45433,
-"precio": 20699.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/34c6b4d7-6aa2-4ac5-b304-07e36c15d1a9/bc705e48-4a02-44af-a833-88f642bc7844.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.4,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2023, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 294.4,
-"entrada": 4139.8,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 314.49,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-12T15:33:37.216304+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=3iWMZFPhzW1f",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 27279,
-"precio": 20890.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/fb3f02ea-edbe-4743-97c8-00a1a3bcab50/f61d3184-1f88-4ac4-b938-9dc8e22512b8.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.39,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 297.11,
-"entrada": 4178.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 317.4,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.539963+00:00"
 },
 {
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3643101",
@@ -2530,60 +2476,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.277058+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=Ibqb2F5jtQNi",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 26841,
-"precio": 20990.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/2da80a99-7734-45f7-869e-19703f09f2de/8c702e60-952c-465a-a98d-007e9b5aa723.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.38,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 298.53,
-"entrada": 4198.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 318.92,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.544653+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-70kw-95-suv-y-4x4-manual-2021-143435",
@@ -2698,6 +2590,114 @@
 "primer_visto": "2026-11-09T21:00:55.768724+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=3iWMZFPhzW1f",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 27279,
+"precio": 20890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/fb3f02ea-edbe-4743-97c8-00a1a3bcab50/f61d3184-1f88-4ac4-b938-9dc8e22512b8.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.36,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 297.11,
+"entrada": 4178.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 317.4,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.539963+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=Ibqb2F5jtQNi",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 26841,
+"precio": 20990.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/2da80a99-7734-45f7-869e-19703f09f2de/8c702e60-952c-465a-a98d-007e9b5aa723.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.36,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.4/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 298.53,
+"entrada": 4198.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 318.92,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.544653+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-mercedes-clase-gla-150-gla-200d-8g-dct.htm?id=gFbuutMS1SzB",
 "web_id": "coches_com",
 "modelo_id": "mercedes_gla_h247_alternativas",
@@ -2769,7 +2769,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.36,
+"puntuacion": 3.34,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2022, dentro del rango preferente (2022+)"
@@ -2777,7 +2777,7 @@
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.4/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje dentro del rango recomendado; Año 2022, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -2800,280 +2800,10 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": true,
+"nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-13T14:52:33.846600+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=YoJph7-TxXWl",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 32148,
-"precio": 21690.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/05f16f1e-63c7-4373-97df-015aa38362f7/32ab379d-0d84-46a3-b670-08246a4cc920.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.34,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 308.49,
-"entrada": 4338.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 329.55,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.576453+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2.htm?id=Y3iMlfIbJZ2_",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S2 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 27756,
-"precio": 21890.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/e60e9e91-a6bf-4f29-8f7e-3802d250f930/c7d9c4d3-35db-4b2a-a7ba-7f51d4e53825.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.33,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 311.34,
-"entrada": 4378.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 332.59,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.563197+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=x8CK5Kzw0DcJ",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 29976,
-"precio": 21890.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/080f2641-763f-4814-80aa-887c7ba3e8e1/60c04c58-baad-458e-a701-b5bb6c8dc3eb.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.33,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 311.34,
-"entrada": 4378.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 332.59,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.567587+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=6Oc17-i3u7fy",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 29887,
-"precio": 21890.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/61615ab1-ef6e-4a10-b07b-79b04ee8b48c/5ddaac82-edbc-4dd5-b165-c7229caaf1a6.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.33,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 311.34,
-"entrada": 4378.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 332.59,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.581353+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=o1U1JrR2rE5l",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 32050,
-"precio": 21940.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/dd35ae48-78f0-4f45-8d85-437f8f26ef71/89964f1e-ea04-4e3e-8234-fa020b57cc5a.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.33,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 312.05,
-"entrada": 4388.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 333.35,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.605412+00:00"
 },
 {
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-skoda-kamiq-110-10-tsi-style-81kw-dsg.htm?id=3_pSTxW9a-uR",
@@ -3130,80 +2860,25 @@
 "primer_visto": "2026-11-09T21:07:38.178373+00:00"
 },
 {
-"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2021-144113",
-"web_id": "clicars",
-"modelo_id": "skoda_kamiq",
-"titulo": "Skoda Kamiq 1.0 TSI Ambition DSG",
-"marca": "Skoda",
-"modelo": "Kamiq",
-"version": "1.0 TSI Ambition DSG",
-"anio": 2021,
-"km": 85725,
-"precio": 14990.0,
-"combustible": "gasolina",
-"cambio": "automatico",
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=YoJph7-TxXWl",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 32148,
+"precio": 21690.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
 "etiqueta": null,
-"foto_url": null,
-"vendedor_tipo": "profesional",
+"foto_url": "https://images.coches.com/_ccom_/05f16f1e-63c7-4373-97df-015aa38362f7/32ab379d-0d84-46a3-b670-08246a4cc920.jpg",
+"vendedor_tipo": null,
 "garantia_meses": null,
-"ubicacion": null,
+"ubicacion": "Madrid",
 "puntuacion": 3.32,
 "pros": [
-"precio un 12% por debajo de la mediana del mercado (16.970 €)",
-"año 2021, dentro del rango preferente (2021+)",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 12% por debajo de la mediana del mercado (16.970 €); Año 2021, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 232.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 213.2,
-"entrada": 2998.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 227.75,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": true,
-"precio_anterior": 15490.0,
-"primer_visto": "2026-11-07T11:49:38.383027+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=mUVowxwJW1gY",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 25783,
-"precio": 22290.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/d06581e3-78bf-49be-b029-7a4242539682/c9ab2c9e-92ff-4d54-8564-2a3f0be61be3.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.31,
-"pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
 ],
@@ -3218,14 +2893,14 @@
 "nota": "No especificada en el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 317.02,
-"entrada": 4458.0,
+"cuota_mensual": 308.49,
+"entrada": 4338.0,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 338.67,
+"cuota_mensual": 329.55,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -3236,61 +2911,7 @@
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.586138+00:00"
-},
-{
-"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=PIqk8jYjEMwF",
-"web_id": "coches_com",
-"modelo_id": "suzuki_scross_vitara",
-"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
-"marca": "Suzuki",
-"modelo": "Vitara",
-"version": "",
-"anio": 2025,
-"km": 27681,
-"precio": 22250.0,
-"combustible": "hibrido_no_enchufable",
-"cambio": null,
-"etiqueta": null,
-"foto_url": "https://images.coches.com/_ccom_/e13fe108-dd4c-407f-a82a-55ba29e04dc4/0df2afb9-e031-4f80-b77f-1f81e4bb7832.jpg",
-"vendedor_tipo": null,
-"garantia_meses": null,
-"ubicacion": "Madrid",
-"puntuacion": 3.31,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2025, dentro del rango preferente (2022+)"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": null,
-"meses": 72,
-"nota": "No especificada en el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 316.46,
-"entrada": 4450.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 338.06,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.590952+00:00"
+"primer_visto": "2026-11-07T11:48:33.576453+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-144969",
@@ -3403,6 +3024,222 @@
 "primer_visto": "2026-11-10T15:12:11.321467+00:00"
 },
 {
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s2.htm?id=Y3iMlfIbJZ2_",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S2 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 27756,
+"precio": 21890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/e60e9e91-a6bf-4f29-8f7e-3802d250f930/c7d9c4d3-35db-4b2a-a7ba-7f51d4e53825.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.3,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 311.34,
+"entrada": 4378.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 332.59,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.563197+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=x8CK5Kzw0DcJ",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 29976,
+"precio": 21890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/080f2641-763f-4814-80aa-887c7ba3e8e1/60c04c58-baad-458e-a701-b5bb6c8dc3eb.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.3,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 311.34,
+"entrada": 4378.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 332.59,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.567587+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=6Oc17-i3u7fy",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 29887,
+"precio": 21890.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/61615ab1-ef6e-4a10-b07b-79b04ee8b48c/5ddaac82-edbc-4dd5-b165-c7229caaf1a6.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.3,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 311.34,
+"entrada": 4378.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 332.59,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.581353+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=o1U1JrR2rE5l",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 32050,
+"precio": 21940.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/dd35ae48-78f0-4f45-8d85-437f8f26ef71/89964f1e-ea04-4e3e-8234-fa020b57cc5a.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.3,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 312.05,
+"entrada": 4388.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 333.35,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.605412+00:00"
+},
+{
 "url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=wCKo2QUskhqa",
 "web_id": "coches_com",
 "modelo_id": "suzuki_scross_vitara",
@@ -3420,7 +3257,7 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.3,
+"puntuacion": 3.28,
 "pros": [
 "kilometraje muy bajo para el modelo",
 "año 2025, dentro del rango preferente (2022+)"
@@ -3455,6 +3292,114 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:48:33.572029+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=mUVowxwJW1gY",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 25783,
+"precio": 22290.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/d06581e3-78bf-49be-b029-7a4242539682/c9ab2c9e-92ff-4d54-8564-2a3f0be61be3.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.28,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 317.02,
+"entrada": 4458.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 338.67,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.586138+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-vitara-129-14t-mild-hybrid-s1.htm?id=PIqk8jYjEMwF",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI Vitara 1.4T Mild Hybrid S1 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "Vitara",
+"version": "",
+"anio": 2025,
+"km": 27681,
+"precio": 22250.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/e13fe108-dd4c-407f-a82a-55ba29e04dc4/0df2afb9-e031-4f80-b77f-1f81e4bb7832.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.28,
+"pros": [
+"kilometraje muy bajo para el modelo",
+"año 2025, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Kilometraje muy bajo para el modelo; Año 2025, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 316.46,
+"entrada": 4450.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 338.06,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-07T11:48:33.590952+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
@@ -3577,7 +3522,7 @@
 "version": "",
 "anio": 2023,
 "km": 86150,
-"precio": 17099.0,
+"precio": 16699.0,
 "combustible": "hibrido_no_enchufable",
 "cambio": null,
 "etiqueta": null,
@@ -3587,13 +3532,13 @@
 "ubicacion": "Madrid",
 "puntuacion": 3.26,
 "pros": [
-"precio un 17% por debajo de la mediana del mercado (20.724 €)",
+"precio un 18% por debajo de la mediana del mercado (20.299 €)",
 "año 2023, dentro del rango preferente (2022+)"
 ],
 "contras": [
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.3/5. A favor: Precio un 17% por debajo de la mediana del mercado (20.724 €); Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.3/5. A favor: Precio un 18% por debajo de la mediana del mercado (20.299 €); Año 2023, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
@@ -3601,14 +3546,123 @@
 "nota": "No especificada en el anuncio"
 },
 "mercado_medio": {
-"cuota_mensual": 243.19,
-"entrada": 3419.8,
+"cuota_mensual": 237.5,
+"entrada": 3339.8,
 "meses": 72,
 "tae": 0.085,
 "nota": "Supuesto: TAE 8.5%, entrada 20%"
 },
 "prestamo_familiar": {
-"cuota_mensual": 259.8,
+"cuota_mensual": 253.72,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": true,
+"precio_anterior": 17099.0,
+"primer_visto": "2026-11-07T11:48:33.505132+00:00"
+},
+{
+"url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-143565",
+"web_id": "clicars",
+"modelo_id": "skoda_kamiq",
+"titulo": "Skoda Kamiq 1.0 TSI Selection DSG7",
+"marca": "Skoda",
+"modelo": "Kamiq",
+"version": "1.0 TSI Selection DSG7",
+"anio": 2024,
+"km": 82692,
+"precio": 16490.0,
+"combustible": "gasolina",
+"cambio": "automatico",
+"etiqueta": null,
+"foto_url": null,
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": null,
+"puntuacion": 3.25,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2024, dentro del rango preferente (2021+)",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2021+); Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 239.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 234.53,
+"entrada": 3298.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 250.54,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": true,
+"precio_anterior": 16990.0,
+"primer_visto": "2026-11-07T11:49:38.388574+00:00"
+},
+{
+"url": "https://www.coches.com/coches-segunda-mano/ocasion-suzuki-s-cross-129-14l-mild-hybrid-s2.htm?id=8nsurioqP7yO",
+"web_id": "coches_com",
+"modelo_id": "suzuki_scross_vitara",
+"titulo": "SUZUKI S Cross 1.4L Mild Hybrid S2 129 en Madrid",
+"marca": "Suzuki",
+"modelo": "S-Cross",
+"version": "",
+"anio": 2024,
+"km": 77638,
+"precio": 18990.0,
+"combustible": "hibrido_no_enchufable",
+"cambio": null,
+"etiqueta": null,
+"foto_url": "https://images.coches.com/_ccom_/0e572fc9-8a20-49df-b4ad-3104380db5a3/2870bfe1-ecfc-4c37-9544-e963fe31c20a.jpg",
+"vendedor_tipo": null,
+"garantia_meses": null,
+"ubicacion": "Madrid",
+"puntuacion": 3.24,
+"pros": [
+"kilometraje dentro del rango recomendado",
+"año 2024, dentro del rango preferente (2022+)"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.2/5. A favor: Kilometraje dentro del rango recomendado; Año 2024, dentro del rango preferente (2022+). En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": null,
+"meses": 72,
+"nota": "No especificada en el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 270.09,
+"entrada": 3798.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 288.53,
 "entrada": 0,
 "meses": 72,
 "interes_anual": 0.03,
@@ -3619,7 +3673,7 @@
 "nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
-"primer_visto": "2026-11-07T11:48:33.505132+00:00"
+"primer_visto": "2026-11-12T15:33:37.203187+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-dsg-110-suv-y-4x4-automatico-2022-144784",
@@ -3942,7 +3996,7 @@
 "nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
 }
 },
-"nuevo_hoy": true,
+"nuevo_hoy": false,
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-13T14:53:35.212928+00:00"
@@ -3965,16 +4019,16 @@
 "vendedor_tipo": null,
 "garantia_meses": null,
 "ubicacion": "Madrid",
-"puntuacion": 3.03,
+"puntuacion": 3.01,
 "pros": [
-"precio un 18% por debajo de la mediana del mercado (20.724 €)",
+"precio un 17% por debajo de la mediana del mercado (20.299 €)",
 "año 2022, dentro del rango preferente (2022+)"
 ],
 "contras": [
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 3.0/5. A favor: Precio un 18% por debajo de la mediana del mercado (20.724 €); Año 2022, dentro del rango preferente (2022+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 3.0/5. A favor: Precio un 17% por debajo de la mediana del mercado (20.299 €); Año 2022, dentro del rango preferente (2022+). En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": null,
