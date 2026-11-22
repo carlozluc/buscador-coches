@@ -1,6 +1,6 @@
 {
-"generado": "2026-11-21T14:55:23.867397+00:00",
-"fecha": "2026-11-21",
+"generado": "2026-11-22T14:52:36.650843+00:00",
+"fecha": "2026-11-22",
 "modelos": [
 {
 "id": "suzuki_scross_vitara",
@@ -751,7 +751,6 @@
 }
 ],
 "fotos": [
-"https://www.autofesa.com/media/cache/md/943b4268-d235-47e9-a95d-1842f48ab88c/1CayAT2vHjt7jfVohQ2uRg.webp",
 "https://fotos.inventario.pro/coche/2929/3641456/6691b409-b62c-7bbc-9a3c-033427e71a46/40543ad341c7ad9b85737cf1254c2d0f_786650b0da33ee44f8cb72b4c471f700.jpg",
 "https://img.ocasionplus.com/o3xaQN50YjOurbZJAB1W8elToFfzD700GM78W18-XcQ/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvNzUvNTUvNTcvNS94MDEuanBnPzE1MzA5NDQ4ODg0",
 "https://img.ocasionplus.com/I5-2t7IQoTpBR-ft_are0x2MtzNNcS7fkVhfncBbIZo/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjEvNzEvMzYvNzEvMi94MDEuanBnPzE1MzIzMzU4NDA1"
@@ -984,61 +983,6 @@
 "bajada_precio": false,
 "precio_anterior": null,
 "primer_visto": "2026-11-07T11:49:38.241790+00:00"
-},
-{
-"url": "https://www.autofesa.com/coches-de-ocasion/skoda/kodiaq/1-5-tsi-4x2-active-150cv-7-plazas-5p-iva-deducible-parktronic",
-"web_id": "autofesa",
-"modelo_id": "skoda_kodiaq",
-"titulo": "Skoda Kodiaq 1.5 TSI 4X2 ACTIVE 150CV 7 PLAZAS 5P # IVA DEDUCIBLE, PARKTRONIC",
-"marca": "Skoda",
-"modelo": "Kodiaq",
-"version": "1.5 TSI 4X2 ACTIVE 150CV 7 PLAZAS 5P # IVA DEDUCIBLE, PARKTRONIC",
-"anio": 2021,
-"km": 56300,
-"precio": 21950.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://www.autofesa.com/media/cache/md/943b4268-d235-47e9-a95d-1842f48ab88c/1CayAT2vHjt7jfVohQ2uRg.webp",
-"vendedor_tipo": "profesional",
-"garantia_meses": 12,
-"ubicacion": null,
-"puntuacion": 3.97,
-"pros": [
-"kilometraje muy bajo para el modelo",
-"año 2021, dentro del rango preferente (2020+)",
-"cambio manual, el recomendado para este modelo",
-"garantía de 12 meses",
-"vendedor profesional"
-],
-"contras": [],
-"explicacion": "Puntuación 4.0/5. A favor: Kilometraje muy bajo para el modelo; Año 2021, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Garantía de 12 meses; Vendedor profesional.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 350.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 312.19,
-"entrada": 4390.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 333.5,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": true,
-"precio_anterior": 22950.0,
-"primer_visto": "2026-11-09T21:00:55.763940+00:00"
 },
 {
 "url": "https://www.ftomeocasion.com/coches-de-ocasion/skoda/kamiq/3559151",
@@ -1560,7 +1504,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": 12,
 "ubicacion": null,
-"puntuacion": 3.71,
+"puntuacion": 3.68,
 "pros": [
 "kilometraje dentro del rango recomendado",
 "año 2020, dentro del rango preferente (2020+)",
@@ -2536,61 +2480,6 @@
 "primer_visto": "2026-11-10T11:34:38.810829+00:00"
 },
 {
-"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kodiaq-15-tsi-125-aniversario-4x2-con-99744km-2020-b2h3zqaq",
-"web_id": "ocasionplus",
-"modelo_id": "skoda_kodiaq",
-"titulo": "Skoda Kodiaq 1.5 TSI 125 Aniversario 4x2 (150 CV)",
-"marca": "Skoda",
-"modelo": "Kodiaq",
-"version": "1.5 TSI 125 Aniversario 4x2 (150 CV)",
-"anio": 2020,
-"km": 99744,
-"precio": 20490.0,
-"combustible": "gasolina",
-"cambio": "manual",
-"etiqueta": "C",
-"foto_url": "https://img.ocasionplus.com/o3xaQN50YjOurbZJAB1W8elToFfzD700GM78W18-XcQ/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvNzUvNTUvNTcvNS94MDEuanBnPzE1MzA5NDQ4ODg0",
-"vendedor_tipo": "profesional",
-"garantia_meses": null,
-"ubicacion": "Madrid - Villalba Juan Carlos I",
-"puntuacion": 3.35,
-"pros": [
-"año 2020, dentro del rango preferente (2020+)",
-"cambio manual, el recomendado para este modelo",
-"vendedor profesional"
-],
-"contras": [
-"sin garantía especificada en el anuncio"
-],
-"explicacion": "Puntuación 3.4/5. A favor: Año 2020, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
-"financiacion": {
-"oferta_vendedor": {
-"cuota_mensual": 325.0,
-"meses": 72,
-"nota": "Tal como la indica el anuncio"
-},
-"mercado_medio": {
-"cuota_mensual": 291.42,
-"entrada": 4098.0,
-"meses": 72,
-"tae": 0.085,
-"nota": "Supuesto: TAE 8.5%, entrada 20%"
-},
-"prestamo_familiar": {
-"cuota_mensual": 311.32,
-"entrada": 0,
-"meses": 72,
-"interes_anual": 0.03,
-"capital_pendiente_al_final": 0,
-"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
-}
-},
-"nuevo_hoy": false,
-"bajada_precio": false,
-"precio_anterior": null,
-"primer_visto": "2026-11-09T21:00:55.768724+00:00"
-},
-{
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-selection-dsg7-85kw-115-suv-y-4x4-automatico-2024-144969",
 "web_id": "clicars",
 "modelo_id": "skoda_kamiq",
@@ -2862,6 +2751,61 @@
 "bajada_precio": true,
 "precio_anterior": 15490.0,
 "primer_visto": "2026-11-07T11:49:38.383027+00:00"
+},
+{
+"url": "https://www.ocasionplus.com/coches-segunda-mano/skoda-kodiaq-15-tsi-125-aniversario-4x2-con-99744km-2020-b2h3zqaq",
+"web_id": "ocasionplus",
+"modelo_id": "skoda_kodiaq",
+"titulo": "Skoda Kodiaq 1.5 TSI 125 Aniversario 4x2 (150 CV)",
+"marca": "Skoda",
+"modelo": "Kodiaq",
+"version": "1.5 TSI 125 Aniversario 4x2 (150 CV)",
+"anio": 2020,
+"km": 99744,
+"precio": 20490.0,
+"combustible": "gasolina",
+"cambio": "manual",
+"etiqueta": "C",
+"foto_url": "https://img.ocasionplus.com/o3xaQN50YjOurbZJAB1W8elToFfzD700GM78W18-XcQ/mobilex2ao_auto/aHR0cHM6Ly9mb3Rvcy5lc3RhdGljb3NtZi5jb20vZm90b3NfYW51bmNpb3MvMDAvMjAvNzUvNTUvNTcvNS94MDEuanBnPzE1MzA5NDQ4ODg0",
+"vendedor_tipo": "profesional",
+"garantia_meses": null,
+"ubicacion": "Madrid - Villalba Juan Carlos I",
+"puntuacion": 3.32,
+"pros": [
+"año 2020, dentro del rango preferente (2020+)",
+"cambio manual, el recomendado para este modelo",
+"vendedor profesional"
+],
+"contras": [
+"sin garantía especificada en el anuncio"
+],
+"explicacion": "Puntuación 3.3/5. A favor: Año 2020, dentro del rango preferente (2020+); Cambio manual, el recomendado para este modelo; Vendedor profesional. En contra: Sin garantía especificada en el anuncio.",
+"financiacion": {
+"oferta_vendedor": {
+"cuota_mensual": 325.0,
+"meses": 72,
+"nota": "Tal como la indica el anuncio"
+},
+"mercado_medio": {
+"cuota_mensual": 291.42,
+"entrada": 4098.0,
+"meses": 72,
+"tae": 0.085,
+"nota": "Supuesto: TAE 8.5%, entrada 20%"
+},
+"prestamo_familiar": {
+"cuota_mensual": 311.32,
+"entrada": 0,
+"meses": 72,
+"interes_anual": 0.03,
+"capital_pendiente_al_final": 0,
+"nota": "Supuesto: interés 3% anual, sin entrada, cuota fija que amortiza capital e intereses a 72 meses (queda liquidado)"
+}
+},
+"nuevo_hoy": false,
+"bajada_precio": false,
+"precio_anterior": null,
+"primer_visto": "2026-11-09T21:00:55.768724+00:00"
 },
 {
 "url": "https://www.clicars.com/coches-segunda-mano-ocasion/comprar-skoda-kamiq-kamiq-1-0-tsi-ambition-81kw-110-suv-y-4x4-manual-2022-146414",
@@ -3644,7 +3588,7 @@
 "vendedor_tipo": "profesional",
 "garantia_meses": null,
 "ubicacion": "Madrid - Alcobendas",
-"puntuacion": 2.75,
+"puntuacion": 2.72,
 "pros": [
 "cambio automatico, el recomendado para este modelo",
 "vendedor profesional"
@@ -3653,7 +3597,7 @@
 "kilometraje dentro del rango recomendado",
 "sin garantía especificada en el anuncio"
 ],
-"explicacion": "Puntuación 2.8/5. A favor: Cambio automatico, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
+"explicacion": "Puntuación 2.7/5. A favor: Cambio automatico, el recomendado para este modelo; Vendedor profesional. En contra: Kilometraje dentro del rango recomendado; Sin garantía especificada en el anuncio.",
 "financiacion": {
 "oferta_vendedor": {
 "cuota_mensual": 360.0,
